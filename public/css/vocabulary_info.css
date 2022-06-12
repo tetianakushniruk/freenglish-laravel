@@ -1,0 +1,707 @@
+@media only screen and (min-width: 1028px) {
+  .container {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    background-color: white;
+  }
+  .container .header-mobile {
+    display: none;
+  }
+  .container .header {
+    width: 100%;
+    max-width: 1440px;
+    flex: 0 1 105px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-around;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .header .menu {
+    flex: 0 1 439px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    box-sizing: border-box;
+    justify-content: space-between;
+    border-color: transparent;
+  }
+  .container .header .menu .home {
+    color: white;
+    height: auto;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Noto Sans;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    position: relative;
+  }
+  .container .header .menu .vocabulary {
+    color: #ff5e95;
+    height: auto;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    position: relative;
+  }
+  .container .header .menu .grammar {
+    color: white;
+    height: auto;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Noto Sans;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    position: relative;
+  }
+  .container .header .menu .tests {
+    color: white;
+    height: auto;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Noto Sans;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    position: relative;
+  }
+  .container .header .logo {
+    color: white;
+    width: 209px;
+    height: auto;
+    position: relative;
+    font-size: 40px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .ellipses {
+    position: relative;
+  }
+  .container .title {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .title .text {
+    color: #222222;
+    height: auto;
+    position: relative;
+    font-size: 64px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .word-list {
+    width: 100%;
+    margin-top: 2vw;
+    margin-bottom: 5vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .container .word-list .column {
+    width: 70%;
+    display: flex;
+    margin-top: 1vw;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    align-self: center;
+  }
+  .container .word-list .column .text {
+    color: #222222;
+    height: auto;
+    position: relative;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 400;
+  }
+  .container .word-list .column .text.word {
+    font-weight: 700;
+  }
+  .container .word-list .column .text.example {
+    font-style: italic;
+  }
+  .container .footer {
+    width: 100%;
+    max-width: 1440px;
+    flex: 0 1 493px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: space-around;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .footer .sections {
+    margin-right: 90px;
+    display: flex;
+    flex: 0 1 536px;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    align-self: center;
+  }
+  .container .footer .sections .service-section {
+    width: 84px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .footer .sections .service-section .service {
+    top: 0px;
+    left: 0px;
+    color: #ff5e95;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .download {
+    top: 50px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .vocabulary {
+    top: 90px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .grammar {
+    top: 130px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .tests {
+    top: 170px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .resourses {
+    top: 210px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section {
+    width: 82px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .footer .sections .company-section .company {
+    top: 0px;
+    left: 0px;
+    color: #ff5e95;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section .about-us {
+    top: 90px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section .faq {
+    top: 50px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section .support {
+    top: 130px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .privacy-section {
+    width: 97px;
+    height: 118px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .footer .sections .privacy-section .privacy {
+    top: 0px;
+    left: 0px;
+    color: #ff5e95;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .privacy-section .terms-of-use {
+    top: 50px;
+    left: 0px;
+    color: white;
+    width: 97px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .side-info {
+    margin-left: 120px;
+    margin-right: 90px;
+    min-height: 310px;
+    display: flex;
+    flex: 0 1 370px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+  }
+  .container .footer .side-info .slogan {
+    color: #74d579;
+    width: 252px;
+    height: auto;
+    position: relative;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .side-info .download {
+    color: white;
+    width: 130px;
+    height: auto;
+    position: relative;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .side-info .socnet {
+    width: 194px;
+    height: 34px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .footer .side-info .mob-app {
+    display: flex;
+    flex-direction: row;
+  }
+  .container .footer .side-info .mob-app .googleplay {
+    width: 187px;
+    height: 52px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .footer .side-info .mob-app .appstore {
+    width: 176px;
+    height: 52px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .footer .side-info .logo {
+    color: white;
+    height: auto;
+    position: relative;
+    font-size: 72px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer-mobile {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1027px) {
+  .container {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    background-color: white;
+  }
+  .container .header {
+    display: none;
+  }
+  .container .header-mobile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    font-style: normal;
+    font-family: Noto Sans;
+    font-weight: 800;
+    border-color: transparent;
+    background-color: #314dca;
+    border-radius: 0 0 100px 100px;
+  }
+  .container .header-mobile .logo {
+    color: white;
+    position: relative;
+    font-size: 4rem;
+    align-self: center;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .ellipses {
+    position: relative;
+  }
+  .container .title {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .title .text {
+    color: #222222;
+    height: auto;
+    position: relative;
+    font-size: 64px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .search {
+    width: 50%;
+  }
+  .container .search form {
+    position: relative;
+    width: 100%;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+  }
+  .container .search form input, .container .search form button {
+    height: 55px;
+    font-family: Noto Sans;
+    font-size: 1.5rem;
+  }
+  .container .search form input[type="search"] {
+    outline: 0;
+    width: 100%;
+    background: white;
+    padding: 0 1.6rem;
+    border-radius: 50px;
+    border: 2px solid #222222;
+    appearance: none;
+    transition: all 0.3s cubic-bezier(0, 0, 0.5, 1.5);
+    transition-property: width, border-radius;
+    z-index: 1;
+    position: relative;
+  }
+  .container .search form input[type="search"]::-webkit-search-cancel-button {
+    display: none;
+  }
+  .container .search form button {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25%;
+    font-weight: 700;
+    color: white;
+    background: #ff5e95;
+    border-radius: 0 50px 50px 0;
+    border: 0;
+  }
+  .container .search form input:not(:placeholder-shown) {
+    border-radius: 50px 0 0 50px;
+    border: 2px solid #ff5e95;
+    width: 75%;
+  }
+  .container .search form input:not(:placeholder-shown) + button {
+    display: block;
+  }
+  .container .search form .button-text {
+    display: none;
+  }
+  .container .word-list {
+    width: 100%;
+    margin-top: 2vw;
+    margin-bottom: 5vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .container .word-list .column {
+    width: 70%;
+    display: flex;
+    margin-top: 1vw;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    align-self: center;
+  }
+  .container .word-list .column .text {
+    color: #222222;
+    height: auto;
+    position: relative;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 400;
+  }
+  .container .word-list .column .text.word {
+    font-weight: 700;
+  }
+  .container .word-list .column .text.example {
+    font-style: italic;
+  }
+  .container .footer {
+    display: none;
+  }
+  .container .footer-mobile {
+    margin-top: 10vw;
+    width: 100%;
+    height: 25vw;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-radius: 125px 125px 0 0;
+    background-color: #314dca;
+  }
+  .container .footer-mobile .slogan {
+    color: #74d579;
+    margin-bottom: 5vw;
+    position: relative;
+    font-size: 2vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 9.43px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer-mobile .logo {
+    color: white;
+    position: relative;
+    font-size: 7vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer-mobile .socnet {
+    margin-top: 5vw;
+    width: 25vw;
+    height: auto;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+}
+/*# sourceMappingURL=vocabulary_info.css.map */

@@ -1,0 +1,117 @@
+@media only screen and (min-width: 1028px) {
+    .search{
+        width: 50%;
+        margin-top: 2vw;
+        form {
+            position: relative;
+            width:100%;
+            border-radius: 50px;
+            display: flex;
+            flex-direction: row;
+
+          input, button {
+            height: 55px;
+            font-family: Noto Sans;
+            font-size: 1.5rem;
+
+          }
+          input[type="search"] {
+            outline: 0; 
+            width: 100%;
+            background: rgba(255, 255, 255, 1);
+            padding: 0 1.6rem;
+            border-radius: 50px;
+            border: 2px solid rgba(34, 34, 34, 1);
+            appearance: none; 
+            transition: all .3s cubic-bezier(0, 0, 0.5, 1.5);
+            transition-property: width, border-radius;
+            z-index: 1;
+            position: relative;
+
+            &::-webkit-search-cancel-button {
+                display: none;
+            }
+          }
+          button {
+            display: none; 
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 25%;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 1);
+            background: rgba(255, 94, 149, 1);
+            border-radius: 0 50px 50px 0;
+            border: 0;
+          }
+          input:not(:placeholder-shown) {
+            border-radius: 50px 0 0 50px;
+            border: 2px solid rgba(255, 94, 149, 1);
+            width: 75%;
+            + button {
+              display: block;
+            }
+          }
+        }
+    }
+}
+
+@media only screen and (max-width: 1027px) {
+    .search{
+        width: 50%;
+        form {
+            position: relative;
+            width:100%;
+            border-radius: 50px;
+            display: flex;
+            flex-direction: row;
+
+          input, button {
+            height: 55px;
+            font-family: Noto Sans;
+            font-size: 1.5rem;
+
+          }
+          input[type="search"] {
+            outline: 0; 
+            width: 100%;
+            background: rgba(255, 255, 255, 1);
+            padding: 0 1.6rem;
+            border-radius: 50px;
+            border: 2px solid rgba(34, 34, 34, 1);
+            appearance: none; 
+            transition: all .3s cubic-bezier(0, 0, 0.5, 1.5);
+            transition-property: width, border-radius;
+            z-index: 1;
+            position: relative;
+
+            &::-webkit-search-cancel-button {
+                display: none;
+            }
+          }
+          button {
+            display: none; 
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 25%;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 1);
+            background: rgba(255, 94, 149, 1);
+            border-radius: 0 50px 50px 0;
+            border: 0;
+          }
+          input:not(:placeholder-shown) {
+            border-radius: 50px 0 0 50px;
+            border: 2px solid rgba(255, 94, 149, 1);
+            width: 75%;
+            + button {
+              display: block;
+            }
+          }
+          .button-text{
+            display: none;
+          }
+        }
+    }
+}

@@ -1,0 +1,1789 @@
+@media only screen and (min-width: 1028px) {
+  .container {
+    width: 100%;
+    min-height: 2951px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    background-color: white;
+  }
+  .container .header-mobile {
+    display: none;
+  }
+  .container .header {
+    width: 100%;
+    max-width: 1440px;
+    flex: 0 1 105px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: center;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .header .menu {
+    top: 42.5px;
+    width: 437px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+  }
+  .container .header .menu .home {
+    color: #ff5e95;
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .header .menu .vocabulary {
+    color: white;
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 300px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .header .menu .grammar {
+    color: white;
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 300px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .header .menu .tests {
+    color: white;
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 300px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .header .logo {
+    display: none;
+  }
+  .container .banner {
+    width: 100%;
+    flex: 0 1 calc(1440px - 55vw);
+    max-width: 1440px;
+    min-height: 669px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .banner .curve-mob,
+  .container .banner .bg-add {
+    display: none;
+  }
+  .container .banner .bg .slogan1 {
+    top: 274px;
+    left: 125px;
+    color: white;
+    width: 554px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 500;
+    line-height: 52px;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .banner .bg .slogan2 {
+    top: 324px;
+    left: 125px;
+    color: #ff5e95;
+    width: 554px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 800;
+    line-height: 52px;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .banner .bg .illustr {
+    bottom: 10px;
+    right: 90px;
+    width: 100%;
+    width: 649px;
+    height: auto;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .banner .bg .logo {
+    top: 140px;
+    left: 120px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 4.5rem;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .banner .btn {
+    top: 419px;
+    left: 125px;
+    width: 255px;
+    height: 56px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 4px 4px 28px 0px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 50px;
+    background-color: #314dca;
+  }
+  .container .banner .btn .shadow {
+    top: 0px;
+    left: 0px;
+    width: 255px;
+    height: 56px;
+    position: absolute;
+    object-fit: cover;
+    border-color: #314dca;
+    border-width: 0px;
+    border-radius: 4px;
+    background-color: #314dca;
+  }
+  .container .banner .btn .text {
+    top: 16px;
+    left: 0px;
+    color: white;
+    width: 255px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .welcome {
+    margin-top: 60px;
+    max-width: 1154px;
+    width: 100%;
+    flex: 0 1 241px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .welcome .pink-box {
+    left: 577px;
+    width: 380px;
+    height: 90px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: #ff5e95;
+  }
+  .container .welcome .text {
+    color: #222222;
+    width: 1154px;
+    height: auto;
+    position: relative;
+    font-size: 64px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .text .text1 {
+    color: #222222;
+    width: 1154px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .text .text2 {
+    color: white;
+    width: 1154px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 900;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .description {
+    margin-top: 25px;
+    color: #222222;
+    max-width: 1032px;
+    width: 70vw;
+    height: auto;
+    position: relative;
+    font-size: 36px;
+    font-style: normal;
+    align-self: center;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .ellipses {
+    width: 104px;
+    height: 123px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .welcome .ellipses .big {
+    top: 59px;
+    width: 64;
+    height: 64;
+    position: absolute;
+  }
+  .container .welcome .ellipses .medium {
+    top: 20px;
+    left: 54px;
+    width: 50;
+    height: 50;
+    position: absolute;
+  }
+  .container .welcome .ellipses .small {
+    left: 12px;
+    width: 40;
+    height: 40;
+    position: absolute;
+  }
+  .container .sections {
+    margin-top: 60px;
+    width: 100%;
+    max-width: 1148px;
+    flex: 0 1 345px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+  }
+  .container .sections .item.tests {
+    width: 333px;
+    height: 334.6px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .container .sections .item.tests .btn {
+    top: 278.6px;
+    left: 24px;
+    width: 255px;
+    height: 56px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: #74d579;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+  }
+  .container .sections .item.tests .btn .explore {
+    top: 16px;
+    left: 0px;
+    color: #74d579;
+    width: 255px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.tests .description {
+    top: 229px;
+    left: 0px;
+    color: black;
+    width: 333px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.tests .title {
+    top: 196.6px;
+    left: 0px;
+    color: black;
+    width: 303px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.tests .icon img {
+    top: 1.16px;
+    left: 50px;
+    width: 201px;
+    height: 201px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .sections .item.grammar {
+    width: 333px;
+    height: 334px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .container .sections .item.grammar .btn {
+    top: 278px;
+    left: 23px;
+    width: 255px;
+    height: 56px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: #ff5e95;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+  }
+  .container .sections .item.grammar .btn .explore {
+    top: 16px;
+    left: 0px;
+    color: #ff5e95;
+    width: 255px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.grammar .description {
+    top: 228px;
+    left: 0px;
+    color: black;
+    width: 333px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.grammar .title {
+    top: 199px;
+    left: 0px;
+    color: black;
+    width: 303px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.grammar .icon img {
+    top: 1.16px;
+    left: 49.4px;
+    width: 201px;
+    height: 201px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .sections .item.vocabulary {
+    width: 333px;
+    height: 334px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .container .sections .item.vocabulary .btn {
+    top: 278px;
+    left: 24px;
+    width: 255px;
+    height: 56px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: #4f66d1;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+  }
+  .container .sections .item.vocabulary .btn .explore {
+    top: 16px;
+    left: 0px;
+    color: #4f66d1;
+    width: 255px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.vocabulary .description {
+    top: 228px;
+    left: 0px;
+    color: black;
+    width: 333px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.vocabulary .title {
+    top: 198.6px;
+    left: 0px;
+    color: black;
+    width: 303px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.vocabulary .icon img {
+    top: 1.16px;
+    left: 50.4px;
+    width: 201px;
+    height: 201px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .mobile-app {
+    margin-top: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    box-sizing: border-box;
+    justify-content: center;
+    border-color: transparent;
+  }
+  .container .mobile-app .content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .container .mobile-app .content .study {
+    color: #222222;
+    width: 204px;
+    height: auto;
+    position: relative;
+    font-size: 40px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 500;
+    line-height: 52px;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan {
+    color: #74d579;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    font-size: 58px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 800;
+    line-height: 52px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .any {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .container .mobile-app .content .slogan .any .text1 {
+    color: #74d579;
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .any .text3 {
+    color: #74d579;
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .green-box {
+    width: 213px;
+    height: 108px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: #4bcd5c;
+  }
+  .container .mobile-app .content .slogan .green-box .text2 {
+    color: white;
+    width: 427px;
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .green-box .text4 {
+    color: white;
+    width: 427px;
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .description {
+    color: black;
+    width: 422px;
+    height: auto;
+    position: relative;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .mob-app {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  .container .mobile-app .content .mob-app .googleplay {
+    width: 187px;
+    height: 52px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .mobile-app .content .mob-app .appstore {
+    width: 176px;
+    height: 52px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .mobile-app .content .curve {
+    align-self: flex-end;
+    width: 25vw;
+    position: relative;
+    content: url("../img/mobappdottedcurve.svg");
+  }
+  .container .mobile-app .illustr {
+    width: 50vw;
+    height: auto;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .call-to-action {
+    margin-bottom: 140px;
+    width: 100%;
+    max-width: 1154px;
+    flex: 1 0 225px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .container .call-to-action .description {
+    top: 84px;
+    left: 105px;
+    color: #74d579;
+    width: 943px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 37.5px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .call-to-action .pink-box {
+    top: 2px;
+    left: 157px;
+    width: 837px;
+    height: 90px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: #ff5e95;
+  }
+  .container .call-to-action .slogan {
+    top: 0px;
+    left: 0px;
+    color: white;
+    width: 1154px;
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .call-to-action .btn {
+    top: 153px;
+    left: 399px;
+    width: 329px;
+    height: 72px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 4px 4px 28px 0px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 50px;
+    background-color: #74d579;
+  }
+  .container .call-to-action .btn .bg {
+    top: 0px;
+    left: 0px;
+    width: 329px;
+    height: 72px;
+    position: absolute;
+    object-fit: cover;
+    border-color: #74d579;
+    border-width: 0px;
+    border-radius: 4px;
+    background-color: #74d579;
+  }
+  .container .call-to-action .btn .text {
+    top: 16px;
+    left: 0px;
+    color: white;
+    width: 329px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .footer {
+    width: 100%;
+    max-width: 1440px;
+    flex: 0 1 493px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: space-around;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .footer .sections {
+    margin-right: 90px;
+    display: flex;
+    flex: 0 1 536px;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    align-self: center;
+  }
+  .container .footer .sections .service-section {
+    width: 84px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .footer .sections .service-section .service {
+    top: 0px;
+    left: 0px;
+    color: #ff5e95;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .download {
+    top: 50px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .vocabulary {
+    top: 90px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .grammar {
+    top: 130px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .tests {
+    top: 170px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .service-section .resourses {
+    top: 210px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section {
+    width: 82px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .footer .sections .company-section .company {
+    top: 0px;
+    left: 0px;
+    color: #ff5e95;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section .about-us {
+    top: 90px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section .faq {
+    top: 50px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .company-section .support {
+    top: 130px;
+    left: 0px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .privacy-section {
+    width: 97px;
+    height: 118px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .footer .sections .privacy-section .privacy {
+    top: 0px;
+    left: 0px;
+    color: #ff5e95;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .sections .privacy-section .terms-of-use {
+    top: 50px;
+    left: 0px;
+    color: white;
+    width: 97px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .side-info {
+    margin-left: 120px;
+    margin-right: 90px;
+    min-height: 310px;
+    display: flex;
+    flex: 0 1 370px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+  }
+  .container .footer .side-info .slogan {
+    color: #74d579;
+    width: 252px;
+    height: auto;
+    position: relative;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .side-info .download {
+    color: white;
+    width: 130px;
+    height: auto;
+    position: relative;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer .side-info .socnet {
+    width: 194px;
+    height: 34px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .footer .side-info .mob-app {
+    display: flex;
+    flex-direction: row;
+  }
+  .container .footer .side-info .mob-app .googleplay {
+    width: 187px;
+    height: 52px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .footer .side-info .mob-app .appstore {
+    width: 176px;
+    height: 52px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .footer .side-info .logo {
+    color: white;
+    height: auto;
+    position: relative;
+    font-size: 72px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer-mobile {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1027px) {
+  .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: white;
+  }
+  .container .header {
+    display: none;
+  }
+  .container .header-mobile {
+    width: 100%;
+    display: flex;
+    position: relative;
+    font-style: normal;
+    font-family: Noto Sans;
+    font-weight: 800;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .header-mobile .logo {
+    display: none;
+  }
+  .container .banner {
+    width: 100%;
+    height: 135vw;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .banner .curve-mob {
+    bottom: -5vw;
+    width: 100%;
+    height: auto;
+    position: absolute;
+  }
+  .container .banner .bg-add {
+    top: -1px;
+    width: 100%;
+    height: 30vw;
+    position: relative;
+    background: url("../img/banner-bg-curve-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .container .banner .bg-add .btn {
+    bottom: 15vw;
+    right: 10vw;
+    width: 30vw;
+    height: 7vw;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 1.25px 1.25px 8.8px 0px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    border-color: #314dca;
+    border-width: 0px;
+    border-radius: 50px;
+    background-color: #314dca;
+  }
+  .container .banner .bg-add .btn .text {
+    color: white;
+    height: auto;
+    font-size: 3vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .container .banner .bg {
+    width: 100%;
+    height: 105vw;
+    position: relative;
+    display: flex;
+    border-color: transparent;
+    background-color: #314dca;
+  }
+  .container .banner .bg .slogan1 {
+    top: 25vw;
+    left: 15vw;
+    color: white;
+    position: absolute;
+    font-size: 4vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 500;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .banner .bg .slogan2 {
+    top: 30vw;
+    left: 15vw;
+    color: #ff5e95;
+    position: absolute;
+    font-size: 4vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 800;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .banner .bg .illustr {
+    bottom: 10px;
+    right: 7vw;
+    width: 80vw;
+    height: auto;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .banner .bg .logo {
+    top: 7vw;
+    left: 15vw;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 4.5rem;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .banner .btn {
+    display: none;
+  }
+  .container .welcome {
+    margin-top: 15vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .welcome .pink-box {
+    right: 8vw;
+    width: 43vw;
+    height: 10vw;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: #ff5e95;
+  }
+  .container .welcome .text {
+    color: #222222;
+    width: 100%;
+    height: auto;
+    position: relative;
+    font-size: 7vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .text .text1 {
+    color: #222222;
+    width: 363px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .text .text2 {
+    color: white;
+    width: 363px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 800;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .description {
+    color: #222222;
+    width: 90%;
+    height: auto;
+    position: relative;
+    font-size: 4vw;
+    align-self: center;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .welcome .ellipses {
+    display: none;
+  }
+  .container .sections {
+    margin-top: 15vw;
+    width: 85%;
+    height: calc(1027px - 35vw);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+    box-sizing: border-box;
+    align-self: center;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .sections .item {
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+  }
+  .container .sections .item .icon {
+    max-width: 200px;
+    position: relative;
+    align-self: center;
+  }
+  .container .sections .item .icon img {
+    width: 100%;
+    height: auto;
+  }
+  .container .sections .item .text {
+    width: 60%;
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: space-between;
+  }
+  .container .sections .item .text .title {
+    color: black;
+    height: auto;
+    position: relative;
+    font-size: 25px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item .text .description {
+    color: black;
+    width: 100%;
+    height: auto;
+    position: relative;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Heebo;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item .text .btn {
+    width: 40vw;
+    max-width: 255px;
+    height: 40px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+  }
+  .container .sections .item .text .btn .explore {
+    width: 100%;
+    height: auto;
+    position: relative;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .sections .item.vocabulary .icon {
+    margin-right: 4vw;
+  }
+  .container .sections .item.vocabulary .text .btn {
+    color: #4f66d1;
+  }
+  .container .sections .item.grammar {
+    flex-direction: row-reverse;
+  }
+  .container .sections .item.grammar .icon {
+    margin-left: 4vw;
+  }
+  .container .sections .item.grammar .text {
+    align-items: flex-end;
+  }
+  .container .sections .item.grammar .text .description {
+    text-align: right;
+  }
+  .container .sections .item.grammar .text .btn {
+    color: #ff5e95;
+  }
+  .container .sections .item.tests .icon {
+    margin-right: 4vw;
+  }
+  .container .sections .item.tests .text .btn {
+    color: #74d579;
+  }
+  .container .mobile-app {
+    margin-top: 5vw;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-self: center;
+    flex-shrink: 1;
+  }
+  .container .mobile-app .content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .container .mobile-app .content .curve {
+    align-self: flex-end;
+    margin-right: 5vw;
+    width: 30vw;
+    position: relative;
+    content: url("../img/mobappdottedcurve-mob.svg");
+  }
+  .container .mobile-app .content .study {
+    color: #222222;
+    position: relative;
+    font-size: 2rem;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .container .mobile-app .content .slogan {
+    color: #74d579;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    font-size: 2.5rem;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 800;
+    line-height: 2.2rem;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .any {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .container .mobile-app .content .slogan .any .text1 {
+    color: #74d579;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .any .text3 {
+    color: #74d579;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .green-box {
+    width: 9rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: #4bcd5c;
+  }
+  .container .mobile-app .content .slogan .green-box .text2 {
+    color: white;
+    width: 134px;
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .slogan .green-box .text4 {
+    color: white;
+    width: 134px;
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .description {
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    color: black;
+    position: relative;
+    font-size: 1.2rem;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Noto Sans;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .mobile-app .content .mob-app {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  .container .mobile-app .content .mob-app .appstore {
+    width: 15vw;
+    height: auto;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .mobile-app .content .mob-app .googleplay {
+    width: 16vw;
+    height: auto;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .container .mobile-app .illustr {
+    width: 60%;
+    height: auto;
+    position: relative;
+    object-fit: cover;
+  }
+  .container .call-to-action {
+    margin-top: 5vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .container .call-to-action .description {
+    margin-top: 2vw;
+    color: #74d579;
+    width: 80vw;
+    height: auto;
+    position: relative;
+    font-size: 3vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Rubik;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .call-to-action .pink-box {
+    width: 80vw;
+    height: 10vw;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: #ff5e95;
+  }
+  .container .call-to-action .slogan {
+    color: white;
+    height: auto;
+    position: relative;
+    font-size: 6.5vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .call-to-action .btn {
+    margin-top: 5vw;
+    width: 50vw;
+    max-width: 200px;
+    height: 40px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 4px 4px 28px 0px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 50px;
+    background-color: #74d579;
+  }
+  .container .call-to-action .btn .bg {
+    top: 0px;
+    left: 0px;
+    width: 329px;
+    height: 72px;
+    position: absolute;
+    object-fit: cover;
+    border-color: #74d579;
+    border-width: 0px;
+    border-radius: 4px;
+    background-color: #74d579;
+  }
+  .container .call-to-action .btn .text {
+    color: white;
+    width: 329px;
+    height: auto;
+    position: relative;
+    font-size: calc(10px + 0.5rem);
+    align-self: center;
+    justify-content: center;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .container .footer {
+    display: none;
+  }
+  .container .footer-mobile {
+    margin-top: 10vw;
+    width: 100%;
+    height: 25vw;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-radius: 125px 125px 0 0;
+    background-color: #314dca;
+  }
+  .container .footer-mobile .slogan {
+    color: #74d579;
+    margin-bottom: 5vw;
+    position: relative;
+    font-size: 2vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Rubik;
+    font-weight: 400px;
+    line-height: 9.43px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer-mobile .logo {
+    color: white;
+    position: relative;
+    font-size: 7vw;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Noto Sans;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .container .footer-mobile .socnet {
+    margin-top: 5vw;
+    width: 25vw;
+    height: auto;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+}
+/*# sourceMappingURL=main-page.css.map */
