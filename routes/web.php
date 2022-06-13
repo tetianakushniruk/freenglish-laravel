@@ -32,8 +32,6 @@ function ($topic) {})->name('vocabulary_info');
 Route::get('/vocabulary/{topic}/search', [VocabularyController::class, 'search'], 
 function ($topic) {})->name('search');
 
-
-
 Route::post('/vocabulary/suggest_topic/your_suggestion', [VocabularyController::class, 'suggest'], 
 function ($topic) {})->name('user_suggestion');
 
