@@ -8,6 +8,8 @@ class GrammarExample extends Model
 {
 
     protected $table = 'grammar_examples';
+
+    protected $primaryKey = 'id';
     public $timestamps = false;
 
     protected $fillable = [

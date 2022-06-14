@@ -1,11 +1,5 @@
 @media only screen and (min-width: 1028px) {
-  .grammar-container {
-    min-height: 100vh;
-  }
-  .grammar-container .header-mobile {
-    display: none;
-  }
-  .grammar-container .grammar-page {
+  .container {
     width: 100%;
     margin: auto;
     display: flex;
@@ -18,7 +12,10 @@
     border-color: transparent;
     background-color: white;
   }
-  .grammar-container .grammar-page .header {
+  .container .header-mobile {
+    display: none;
+  }
+  .container .header {
     width: 100%;
     max-width: 1440px;
     flex: 0 1 105px;
@@ -31,7 +28,7 @@
     border-color: transparent;
     background-color: #314dca;
   }
-  .grammar-container .grammar-page .header .menu {
+  .container .header .menu {
     flex: 0 1 439px;
     height: 20px;
     display: flex;
@@ -41,7 +38,7 @@
     justify-content: space-between;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .header .menu .home {
+  .container .header .menu .home {
     color: white;
     height: auto;
     font-size: 18px;
@@ -53,7 +50,7 @@
     text-decoration: none;
     position: relative;
   }
-  .grammar-container .grammar-page .header .menu .vocabulary {
+  .container .header .menu .vocabulary {
     color: white;
     height: auto;
     font-size: 18px;
@@ -65,7 +62,7 @@
     text-decoration: none;
     position: relative;
   }
-  .grammar-container .grammar-page .header .menu .grammar {
+  .container .header .menu .grammar {
     color: #ff5e95;
     height: auto;
     font-size: 18px;
@@ -77,7 +74,7 @@
     text-decoration: none;
     position: relative;
   }
-  .grammar-container .grammar-page .header .menu .tests {
+  .container .header .menu .tests {
     color: white;
     height: auto;
     font-size: 18px;
@@ -89,7 +86,7 @@
     text-decoration: none;
     position: relative;
   }
-  .grammar-container .grammar-page .header .logo {
+  .container .header .logo {
     color: white;
     width: 209px;
     height: auto;
@@ -104,10 +101,10 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .ellipses {
+  .container .ellipses {
     position: relative;
   }
-  .grammar-container .grammar-page .title {
+  .container .title {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -116,7 +113,7 @@
     flex-shrink: 1;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .title .description {
+  .container .title .description {
     color: #222222;
     height: auto;
     position: relative;
@@ -130,7 +127,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .title .text {
+  .container .title .text {
     color: #222222;
     height: auto;
     position: relative;
@@ -144,7 +141,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .content {
+  .container .content {
     width: 75%;
     margin-top: 5vw;
     margin-bottom: 5vw;
@@ -153,7 +150,7 @@
     justify-content: space-between;
     position: relative;
   }
-  .grammar-container .grammar-page .content .explanation {
+  .container .content .explanation {
     color: #222222;
     height: auto;
     position: relative;
@@ -167,27 +164,27 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .content .examples {
+  .container .content .examples {
     margin-top: 2vw;
     position: relative;
     align-content: center;
     font-style: normal;
     font-family: Noto Sans;
   }
-  .grammar-container .grammar-page .content .examples .title {
+  .container .content .examples .title {
     padding-bottom: 1vw;
     font-size: 36px;
     font-weight: 900;
     color: #ff5e95;
   }
-  .grammar-container .grammar-page .content .examples .example {
+  .container .content .examples .example {
     line-height: 155%;
     font-style: italic;
     font-weight: 400;
     font-size: 24px;
     color: #222222;
   }
-  .grammar-container .grammar-page .content .table {
+  .container .content .table {
     width: 100%;
     margin-top: 2vw;
     position: relative;
@@ -196,43 +193,47 @@
     font-style: normal;
     font-family: Noto Sans;
   }
-  .grammar-container .grammar-page .content .table .title {
+  .container .content .table .title {
     padding-bottom: 1vw;
     font-size: 36px;
     font-weight: 900;
     text-align: center;
   }
-  .grammar-container .grammar-page .content .table table {
+  .container .content .table table {
     width: 100%;
     min-height: 200px;
     border: 1px solid;
     border-collapse: collapse;
   }
-  .grammar-container .grammar-page .content .table table thead, .grammar-container .grammar-page .content .table table td, .grammar-container .grammar-page .content .table table th {
+  .container .content .table table thead,
+  .container .content .table table td,
+  .container .content .table table th {
     height: 25%;
     width: calc(100% / 3);
     text-align: left;
     vertical-align: middle;
     border: 1px solid;
   }
-  .grammar-container .grammar-page .content .table table thead p, .grammar-container .grammar-page .content .table table td p, .grammar-container .grammar-page .content .table table th p {
+  .container .content .table table thead p,
+  .container .content .table table td p,
+  .container .content .table table th p {
     font-size: 20px;
     color: #222222;
     padding-left: 3%;
   }
-  .grammar-container .grammar-page .content .table.formation {
+  .container .content .table.formation {
     color: #4bcd5c;
   }
-  .grammar-container .grammar-page .content .table.formation th {
+  .container .content .table.formation th {
     background-color: rgba(75, 205, 92, 0.1);
   }
-  .grammar-container .grammar-page .content .table.formula {
+  .container .content .table.formula {
     color: #ff5e95;
   }
-  .grammar-container .grammar-page .content .table.formula th {
+  .container .content .table.formula th {
     background-color: rgba(255, 94, 149, 0.1);
   }
-  .grammar-container .grammar-page .footer {
+  .container .footer {
     width: 100%;
     max-width: 1440px;
     flex: 0 1 493px;
@@ -245,7 +246,7 @@
     border-color: transparent;
     background-color: #314dca;
   }
-  .grammar-container .grammar-page .footer .sections {
+  .container .footer .sections {
     margin-right: 90px;
     display: flex;
     flex: 0 1 536px;
@@ -254,7 +255,7 @@
     position: relative;
     align-self: center;
   }
-  .grammar-container .grammar-page .footer .sections .service-section {
+  .container .footer .sections .service-section {
     width: 84px;
     height: 240px;
     display: flex;
@@ -265,7 +266,7 @@
     flex-shrink: 1;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .footer .sections .service-section .service {
+  .container .footer .sections .service-section .service {
     top: 0px;
     left: 0px;
     color: #ff5e95;
@@ -281,7 +282,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .service-section .download {
+  .container .footer .sections .service-section .download {
     top: 50px;
     left: 0px;
     color: white;
@@ -297,7 +298,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .service-section .vocabulary {
+  .container .footer .sections .service-section .vocabulary {
     top: 90px;
     left: 0px;
     color: white;
@@ -313,7 +314,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .service-section .grammar {
+  .container .footer .sections .service-section .grammar {
     top: 130px;
     left: 0px;
     color: white;
@@ -329,7 +330,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .service-section .tests {
+  .container .footer .sections .service-section .tests {
     top: 170px;
     left: 0px;
     color: white;
@@ -345,7 +346,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .service-section .resourses {
+  .container .footer .sections .service-section .resourses {
     top: 210px;
     left: 0px;
     color: white;
@@ -361,7 +362,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .company-section {
+  .container .footer .sections .company-section {
     width: 82px;
     height: 160px;
     display: flex;
@@ -372,7 +373,7 @@
     flex-shrink: 1;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .footer .sections .company-section .company {
+  .container .footer .sections .company-section .company {
     top: 0px;
     left: 0px;
     color: #ff5e95;
@@ -388,7 +389,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .company-section .about-us {
+  .container .footer .sections .company-section .about-us {
     top: 90px;
     left: 0px;
     color: white;
@@ -404,7 +405,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .company-section .faq {
+  .container .footer .sections .company-section .faq {
     top: 50px;
     left: 0px;
     color: white;
@@ -420,7 +421,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .company-section .support {
+  .container .footer .sections .company-section .support {
     top: 130px;
     left: 0px;
     color: white;
@@ -436,7 +437,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .privacy-section {
+  .container .footer .sections .privacy-section {
     width: 97px;
     height: 118px;
     display: flex;
@@ -447,7 +448,7 @@
     flex-shrink: 1;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .footer .sections .privacy-section .privacy {
+  .container .footer .sections .privacy-section .privacy {
     top: 0px;
     left: 0px;
     color: #ff5e95;
@@ -463,7 +464,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .sections .privacy-section .terms-of-use {
+  .container .footer .sections .privacy-section .terms-of-use {
     top: 50px;
     left: 0px;
     color: white;
@@ -480,7 +481,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .side-info {
+  .container .footer .side-info {
     margin-left: 120px;
     margin-right: 90px;
     min-height: 310px;
@@ -490,7 +491,7 @@
     justify-content: space-between;
     align-self: center;
   }
-  .grammar-container .grammar-page .footer .side-info .slogan {
+  .container .footer .side-info .slogan {
     color: #74d579;
     width: 252px;
     height: auto;
@@ -505,7 +506,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .side-info .download {
+  .container .footer .side-info .download {
     color: white;
     width: 130px;
     height: auto;
@@ -520,32 +521,32 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer .side-info .socnet {
+  .container .footer .side-info .socnet {
     width: 194px;
     height: 34px;
     position: relative;
     object-fit: cover;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .footer .side-info .mob-app {
+  .container .footer .side-info .mob-app {
     display: flex;
     flex-direction: row;
   }
-  .grammar-container .grammar-page .footer .side-info .mob-app .googleplay {
+  .container .footer .side-info .mob-app .googleplay {
     width: 187px;
     height: 52px;
     position: relative;
     object-fit: cover;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .footer .side-info .mob-app .appstore {
+  .container .footer .side-info .mob-app .appstore {
     width: 176px;
     height: 52px;
     position: relative;
     object-fit: cover;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .footer .side-info .logo {
+  .container .footer .side-info .logo {
     color: white;
     height: auto;
     position: relative;
@@ -559,16 +560,13 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer-mobile {
+  .container .footer-mobile {
     display: none;
   }
 }
 
 @media only screen and (max-width: 1027px) {
-  .grammar-container {
-    min-height: 100vh;
-  }
-  .grammar-container .grammar-page {
+  .container {
     width: 100%;
     margin: auto;
     display: flex;
@@ -581,10 +579,10 @@
     border-color: transparent;
     background-color: white;
   }
-  .grammar-container .grammar-page .header {
+  .container .header {
     display: none;
   }
-  .grammar-container .grammar-page .header-mobile {
+  .container .header-mobile {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -596,7 +594,7 @@
     background-color: #314dca;
     border-radius: 0 0 100px 100px;
   }
-  .grammar-container .grammar-page .header-mobile .logo {
+  .container .header-mobile .logo {
     color: white;
     position: relative;
     font-size: 4rem;
@@ -609,10 +607,10 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .ellipses {
+  .container .ellipses {
     position: relative;
   }
-  .grammar-container .grammar-page .title {
+  .container .title {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -621,7 +619,7 @@
     flex-shrink: 1;
     border-color: transparent;
   }
-  .grammar-container .grammar-page .title .description {
+  .container .title .description {
     color: #222222;
     height: auto;
     position: relative;
@@ -635,7 +633,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .title .text {
+  .container .title .text {
     color: #222222;
     height: auto;
     position: relative;
@@ -649,7 +647,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .content {
+  .container .content {
     width: 75%;
     margin-top: 5vw;
     margin-bottom: 5vw;
@@ -658,7 +656,7 @@
     justify-content: space-between;
     position: relative;
   }
-  .grammar-container .grammar-page .content .explanation {
+  .container .content .explanation {
     color: #222222;
     height: auto;
     position: relative;
@@ -672,27 +670,27 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .content .examples {
+  .container .content .examples {
     margin-top: 2vw;
     position: relative;
     align-content: center;
     font-style: normal;
     font-family: Noto Sans;
   }
-  .grammar-container .grammar-page .content .examples .title {
+  .container .content .examples .title {
     padding-bottom: 1vw;
     font-size: 36px;
     font-weight: 900;
     color: #ff5e95;
   }
-  .grammar-container .grammar-page .content .examples .example {
+  .container .content .examples .example {
     line-height: 155%;
     font-style: italic;
     font-weight: 400;
     font-size: 24px;
     color: #222222;
   }
-  .grammar-container .grammar-page .content .table {
+  .container .content .table {
     width: 100%;
     margin-top: 2vw;
     position: relative;
@@ -701,46 +699,50 @@
     font-style: normal;
     font-family: Noto Sans;
   }
-  .grammar-container .grammar-page .content .table .title {
+  .container .content .table .title {
     padding-bottom: 1vw;
     font-size: 36px;
     font-weight: 900;
     text-align: center;
   }
-  .grammar-container .grammar-page .content .table table {
+  .container .content .table table {
     width: 100%;
     min-height: 200px;
     border: 1px solid;
     border-collapse: collapse;
   }
-  .grammar-container .grammar-page .content .table table thead, .grammar-container .grammar-page .content .table table td, .grammar-container .grammar-page .content .table table th {
+  .container .content .table table thead,
+  .container .content .table table td,
+  .container .content .table table th {
     height: 25%;
     width: calc(100% / 3);
     text-align: left;
     vertical-align: middle;
     border: 1px solid;
   }
-  .grammar-container .grammar-page .content .table table thead p, .grammar-container .grammar-page .content .table table td p, .grammar-container .grammar-page .content .table table th p {
+  .container .content .table table thead p,
+  .container .content .table table td p,
+  .container .content .table table th p {
     font-size: 20px;
     color: #222222;
     padding-left: 3%;
   }
-  .grammar-container .grammar-page .content .table.formation {
+  .container .content .table.formation {
     color: #4bcd5c;
   }
-  .grammar-container .grammar-page .content .table.formation th {
+  .container .content .table.formation th {
     background-color: rgba(75, 205, 92, 0.1);
   }
-  .grammar-container .grammar-page .content .table.formula {
+  .container .content .table.formula {
     color: #ff5e95;
   }
-  .grammar-container .grammar-page .content .table.formula th {
+  .container .content .table.formula th {
     background-color: rgba(255, 94, 149, 0.1);
   }
-  .grammar-container .grammar-page .footer {
+  .container .footer {
     display: none;
   }
-  .grammar-container .grammar-page .footer-mobile {
+  .container .footer-mobile {
     margin-top: 10vw;
     width: 100%;
     height: 25vw;
@@ -754,7 +756,7 @@
     border-radius: 125px 125px 0 0;
     background-color: #314dca;
   }
-  .grammar-container .grammar-page .footer-mobile .slogan {
+  .container .footer-mobile .slogan {
     color: #74d579;
     margin-bottom: 5vw;
     position: relative;
@@ -768,7 +770,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer-mobile .logo {
+  .container .footer-mobile .logo {
     color: white;
     position: relative;
     font-size: 7vw;
@@ -781,7 +783,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .grammar-container .grammar-page .footer-mobile .socnet {
+  .container .footer-mobile .socnet {
     margin-top: 5vw;
     width: 25vw;
     height: auto;

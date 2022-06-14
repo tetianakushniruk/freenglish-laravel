@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\VocabularyController;
+use App\Http\Controllers\GrammarController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -38,6 +39,9 @@ function ($topic) {})->name('user_suggestion');
 Route::get('/grammar', function () {
     return view('grammar');
 })->name('grammar');
+
+Route::get('/grammar/{topic}', [GrammarController::class, 'show_info'],
+function ($topic) {})->name('grammar_info');
 
 Route::get('/tests', function () {
     return view('tests');

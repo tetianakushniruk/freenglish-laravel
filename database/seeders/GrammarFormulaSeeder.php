@@ -27,7 +27,7 @@ class GrammarFormulaSeeder extends Seeder
                         'affirmative' => $obj->formula->affirmative[$i],
                         'negative' => $obj->formula->negative[$i],
                         'question' => $obj->formula->question[$i],
-                        'section_id' => GrammarSection::where('topic', $obj->topic)->value('id')
+                        'grammar_section_id' => GrammarSection::where('topic', $obj->topic)->value('id')
                     ));
                 }
         }

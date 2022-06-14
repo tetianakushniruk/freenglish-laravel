@@ -27,7 +27,7 @@ class GrammarFormationSeeder extends Seeder
                         'affirmative' => $obj->formation->affirmative[$i],
                         'negative' => $obj->formation->negative[$i],
                         'question' => $obj->formation->question[$i],
-                        'section_id' => GrammarSection::where('topic', $obj->topic)->value('id')
+                        'grammar_section_id' => GrammarSection::where('topic', $obj->topic)->value('id')
                     ));
                 }
         }

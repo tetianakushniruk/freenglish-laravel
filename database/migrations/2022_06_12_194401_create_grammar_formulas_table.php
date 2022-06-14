@@ -15,11 +15,11 @@ return new class extends Migration
     {
         Schema::create('grammar_formulas', function (Blueprint $table) {
             $table->id();
-            $table->bigInteger('section_id')->unsigned();
+            $table->bigInteger('grammar_section_id')->unsigned();
             $table->string('affirmative');
             $table->string('negative');
             $table->string('question');
-            $table->foreign('section_id')->references('id')->on('grammar_sections')->onDelete('cascade');
+            $table->foreign('grammar_section_id')->references('id')->on('grammar_sections')->onDelete('cascade');
         });
     }
 

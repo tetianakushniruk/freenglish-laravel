@@ -8,6 +8,8 @@ class GrammarSection extends Model
 {
 
     protected $table = 'grammar_sections';
+
+    protected $primaryKey = 'id';
     public $timestamps = false;
 
     protected $fillable = [

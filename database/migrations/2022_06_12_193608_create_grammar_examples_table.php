@@ -15,9 +15,9 @@ return new class extends Migration
     {
         Schema::create('grammar_examples', function (Blueprint $table) {
             $table->id();
-            $table->bigInteger('section_id')->unsigned();
+            $table->bigInteger('grammar_section_id')->unsigned();
             $table->string('example');
-            $table->foreign('section_id')->references('id')->on('grammar_sections')->onDelete('cascade');
+            $table->foreign('grammar_section_id')->references('id')->on('grammar_sections')->onDelete('cascade');
         });
     }
 

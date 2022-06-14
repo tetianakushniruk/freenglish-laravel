@@ -22,7 +22,7 @@ $pageName = 'grammar'
   </span>
 </div>
 <div class="topics">
-  <div class="item verbtobe">
+  <a class="item verbtobe" href="{{ route('grammar_info', ['topic' => "verb_to_be"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Verb</span>
@@ -38,8 +38,8 @@ $pageName = 'grammar'
       <br />
       <span>With Usage and Examples</span>
     </span>
-  </div>
-  <div class="item modalcan">
+  </a>
+  <a class="item modalcan" href="{{ route('grammar_info', ['topic' => "modal_can"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Modal</span>
@@ -50,8 +50,8 @@ $pageName = 'grammar'
     <span class="descr">
       Modal “CAN” – With Usage and Examples
     </span>
-  </div>
-  <div class="item pressimple">
+  </a>
+  <a class="item pressimple" href="{{ route('grammar_info', ['topic' => "present_simple"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Present</span>
@@ -65,8 +65,8 @@ $pageName = 'grammar'
       <br />
       <span>– With Usage and Examples</span>
     </span>
-  </div>
-  <div class="item prescontin">
+  </a>
+  <a class="item prescontin" href="{{ route('grammar_info', ['topic' => "present_continuous"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Present</span>
@@ -82,8 +82,8 @@ $pageName = 'grammar'
     <span class="descr">
       Present Continuous – With Usage and Examples
     </span>
-  </div>
-  <div class="item futuresimple">
+  </a>
+  <a class="item futuresimple" href="{{ route('grammar_info', ['topic' => "future_simple"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Future</span>
@@ -95,8 +95,8 @@ $pageName = 'grammar'
     <span class="descr">
       Future Simple – With Usage and Examples
     </span>
-  </div>
-  <div class="item pastsimple">
+  </a>
+  <a class="item pastsimple" href="{{ route('grammar_info', ['topic' => "past_simple"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Past</span>
@@ -108,8 +108,8 @@ $pageName = 'grammar'
     <span class="descr">
       Past Simple – With Usage and Examples
     </span>
-  </div>
-  <div class="item pastcontin">
+  </a>
+  <a class="item pastcontin" href="{{ route('grammar_info', ['topic' => "past_continuous"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Past</span>
@@ -125,8 +125,8 @@ $pageName = 'grammar'
     <span class="descr">
       Past Continuous – With Usage and Examples
     </span>
-  </div>
-  <div class="item presperf">
+  </a>
+  <a class="item presperf" href="{{ route('grammar_info', ['topic' => "present_perfect"]) }}">
     <div class="logo">
       <span class="text1">
         <span>Present</span>
@@ -138,8 +138,8 @@ $pageName = 'grammar'
     <span class="descr">
       Present Perfect – With Usage and Examples
     </span>
-  </div>
-  <div class="item begoingto">
+  </a>
+  <a class="item begoingto" href="{{ route('grammar_info', ['topic' => "be_going_to"]) }}">
     <div class="logo">
       <span class="text1">
         <span>“Be</span>
@@ -154,7 +154,7 @@ $pageName = 'grammar'
       <br />
       <span>With Usage and Examples</span>
     </span>
-  </div>
+  </a>
 </div>
 
 @endsection

@@ -25,7 +25,7 @@ class GrammarExampleSeeder extends Seeder
             foreach($obj->examples as $example){
                 GrammarExample::create(array(
                     'example' => $example,
-                    'section_id' => GrammarSection::where('topic', $obj->topic)->value('id')
+                    'grammar_section_id' => GrammarSection::where('topic', $obj->topic)->value('id')
                 ));
             }
         }
