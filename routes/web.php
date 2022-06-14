@@ -27,7 +27,7 @@ Route::get('/vocabulary/suggest_topic', function () {
     return view('suggest_topic');
 })->name('suggest_topic');
 
-Route::get('/vocabulary/{topic}', [VocabularyController::class, 'show_array'], 
+Route::get('/vocabulary/{topic}', [VocabularyController::class, 'show_info'], 
 function ($topic) {})->name('vocabulary_info');
 
 Route::get('/vocabulary/{topic}/search', [VocabularyController::class, 'search'], 

@@ -28,11 +28,13 @@ $pageName = 'vocabulary'
 @include('search')
 
 <div class="result">
-  @if($definition)
-  <span class="text word">{{$word}}</span>
-  <span class="text definition">{{$definition}}</span>
+  @if($definitions)
+    <span class="text word">{{$word}}</span>
+    @foreach($definitions as $dfn)
+      <span class="text definition">-{{$dfn->definition}}</span>
+    @endforeach
   @else
-  <span class="text error">Sorry, the word "{{$word}}" was not found...</span>
+    <span class="text error">Sorry, the word "{{$word}}" was not found...</span>
   @endif
 </div>
 

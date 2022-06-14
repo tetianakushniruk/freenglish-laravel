@@ -19,5 +19,8 @@ class DatabaseSeeder extends Seeder
         $this->call(GrammarExampleSeeder::class);
         $this->call(GrammarFormationSeeder::class);
         $this->call(GrammarFormulaSeeder::class);
+        $this->call(VocabularyWordSeeder::class);
+        $this->call(VocabularyDefinitionSeeder::class);
+        $this->call(VocabularySeeder::class);
     }
 }

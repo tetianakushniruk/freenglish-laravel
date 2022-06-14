@@ -14,7 +14,6 @@ $topic = ucfirst(Request::segment(2));
 
 @section('content')
 
-<script src="https://kit.fontawesome.com/e8f6a9b975.js" crossorigin="anonymous"></script>
 @php
 $pageName = 'vocabulary'
 @endphp
@@ -29,11 +28,12 @@ $pageName = 'vocabulary'
 @include('search')
 
 <div class="word-list">
-
-  @foreach ($vocabulary as $key => $value)
+  @foreach ($vocabulary as $obj)
   <div class="column">
-    <span class="text word">{{$key}}</span>
-    <span class="text definition">{{$value}}</span>
+    <span class="text word">{{$obj->word}}</span>
+    @foreach($obj->definitions as $dfn)
+      <span class="text definition">-{{$dfn->definition}}</span>
+    @endforeach
   </div>
   @endforeach
 
