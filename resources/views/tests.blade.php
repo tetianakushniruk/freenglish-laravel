@@ -22,30 +22,30 @@ $pageName = 'tests'
   </span>
 </div>
 <div class="topics">
-  <div class="item forschools-section">
+  <a class="item forschools-section" href="{{ route('tests_info', ['topic' => "for_schools"]) }}">
     <div class="ellipse"></div>
     <span class="text">
       <span>For</span>
       <br />
       <span>Schools</span>
     </span>
-  </div>
-  <div class="item generaleng-section">
+  </a>
+  <a class="item generaleng-section" href="{{ route('tests_info', ['topic' => "general_eng"]) }}">
     <div class="ellipse"></div>
     <span class="text">
       <span>General</span>
       <br />
       <span>English</span>
     </span>
-  </div>
-  <div class="item businesseng-section">
+  </a>
+  <a class="item businesseng-section" href="{{ route('tests_info', ['topic' => "business_eng"]) }}">
     <div class="ellipse"></div>
     <span class="text">
       <span>Business</span>
       <br />
       <span>English</span>
     </span>
-  </div>
+  </a>
   <div class="curve">
     <img src="{{ asset('img/curve.svg') }}" />
   </div>

@@ -17,11 +17,22 @@ class VocabularyWord extends Model
         'word', 
     ];
 
+    public function topics(){
+        return $this->belongsToMany(VocabularyTopic::class, 
+                                    'vocabulary_topics_words', 
+                                    'vocabulary_word_id', 
+                                    'vocabulary_topic_id');
+    }
+
     public function definitions(){
         return $this->belongsToMany(VocabularyDefinition::class, 
                                     'vocabulary_words_definitions', 
                                     'vocabulary_word_id', 
                                     'vocabulary_definition_id');
+    }
+
+    public function examples(){
+        return $this->hasMany(VocabularyExample::class);
     }
 
 }

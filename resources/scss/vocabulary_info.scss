@@ -165,6 +165,19 @@
                     }
                 }
             }
+            .pictures-list{
+                width: 75%;
+                margin-top: 5vw;
+                display: flex;
+                flex-wrap: wrap;              
+                justify-content: space-around;
+                position: relative;
+
+                .item{
+                    width: 20%;
+                    position: relative;
+                }
+            }
             .footer {
                 width: 100%;
                 max-width: 1440px;
@@ -655,6 +668,19 @@
                             font-style: italic;
                         }
                     }
+                }
+            }
+            .pictures-list{
+                width: 75%;
+                margin-top: 5vw;
+                display: flex;
+                flex-wrap: wrap;              
+                justify-content: space-around;
+                position: relative;
+
+                .item{
+                    width: 30%;
+                    position: relative;
                 }
             }
             .footer {

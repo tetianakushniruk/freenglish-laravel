@@ -162,6 +162,18 @@
   .container .word-list .column .text.example {
     font-style: italic;
   }
+  .container .pictures-list {
+    width: 75%;
+    margin-top: 5vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+  }
+  .container .pictures-list .item {
+    width: 20%;
+    position: relative;
+  }
   .container .footer {
     width: 100%;
     max-width: 1440px;
@@ -650,6 +662,18 @@
   }
   .container .word-list .column .text.example {
     font-style: italic;
+  }
+  .container .pictures-list {
+    width: 75%;
+    margin-top: 5vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+  }
+  .container .pictures-list .item {
+    width: 30%;
+    position: relative;
   }
   .container .footer {
     display: none;

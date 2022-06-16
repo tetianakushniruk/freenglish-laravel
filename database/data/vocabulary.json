@@ -1,0 +1,2002 @@
+[
+    {
+        "topic": "Medicine",
+        "vocabulary": [
+            {
+                "word": "ache",
+                "definition": "pain that won't go away",
+                "example": "I can't sleep because my knees ache in the night."
+            },
+            {
+                "word": "allergy",
+                "definition": "a body's abnormal reaction to certain foods or environmental substances (e.g. causes a rash)",
+                "example": "Your son is extremely allergic to peanuts."
+            },
+            {
+                "word": "ambulance",
+                "definition": "emergency vehicle that rushes people to a hospital",
+                "example": "We called the ambulance when Josh stopped breathing."
+            },
+            {
+                "word": "amnesia",
+                "definition": "a condition that causes people to lose their memory",
+                "example": "I can't remember the accident because I had amnesia."
+            },
+            {
+                "word": "antibiotics",
+                "definition": "medication that kills bacteria and cures infections",
+                "example": "My throat infection went away after I started the antibiotics."
+            },
+            {
+                "word": "bacteria",
+                "definition": "a disease-causing organism",
+                "example": "To prevent the spread of bacteria it is important that nurses wash their hands often."
+            },
+            {
+                "word": "blood pressure",
+                "definition": "the rate at which blood flows through the body (high/low)",
+                "example": "High blood pressure puts you at risk of having a heart attack."
+            },
+            {
+                "word": "cancer",
+                "definition": "disease caused by the uncontrollable growth of cells",
+                "example": "There are many different options when it comes to treating cancer."
+            },
+            {
+                "word": "dehydrated",
+                "definition": "in need of water",
+                "example": "It is easy for the elderly to become dehydrated in this heat."
+            },
+            {
+                "word": "diabetes",
+                "definition": "type of disease typically involving insulin deficiency",
+                "example": "People with diabetes have to constantly check their blood sugar levels."
+            },
+            {
+                "word": "disease",
+                "definition": "a medical disorder that is harmful to a person's health",
+                "example": "I understand that this disease runs in your family."
+            },
+            {
+                "word": "flu (influenza)",
+                "definition": "many types of respiratory or intestinal infections passed on through a virus",
+                "example": "People who have the flu should not visit hospital patients."
+            },
+            {
+                "word": "heart attack",
+                "definition": "instance in which blood stops pumping through the heart",
+                "example": "People who smoke are at greater risk of having a heart attack."
+            },
+            {
+                "word": "HIV",
+                "definition": "the virus that infects the human T-cells and leads to AIDS",
+                "example": "HIV can be passed down from the mother to her fetus."
+            },
+            {
+                "word": "illness",
+                "definition": "general term for any condition that makes a person feel sick for a certain period of time",
+                "example": "Her illness went away when she started eating better."
+            },
+            {
+                "word": "newborn",
+                "definition": "an infant that is less than three months old",
+                "example": "You have to support her neck because she is still a newborn."
+            },
+            {
+                "word": "pain",
+                "definition": "strong discomfort in certain areas of the body",
+                "example": "We gave your husband some medicine to relieve some of the pain."
+            },
+            {
+                "word": "poison",
+                "definition": "a substance that is very dangerous if it enters the human body",
+                "example": "The child was bitten by a poisonous snake."
+            },
+            {
+                "word": "spasm",
+                "definition": "the uncontrollable tightening of a muscle",
+                "example": "Ever since I injured my leg I've been having muscle spasms in my upper thigh."
+            },
+            {
+                "word": "temperature",
+                "definition": "amount of heat measured in a body; higher than normal temperature",
+                "example": "We brought Jesse to emergency because he was running a (high) temperature."
+            },
+            {
+                "word": "therapy",
+                "definition": "treatment aimed at improving a person's mental or physical condition",
+                "example": "I was able to go back to work a few weeks after starting the therapy."
+            },
+            {
+                "word": "vein",
+                "definition": "the thin tubes that transport blood around the body and back to the heart",
+                "example": "I'm just looking for the best vein in which to insert the needle."
+            },
+            {
+                "word": "wheelchair",
+                "definition": "a chair on wheels used for transporting patients from place to place",
+                "example": "If you get in the wheelchair I'll take you down to see the garden."
+            },
+            {
+                "word": "wound",
+                "definition": "injury to body (“flesh wound” means not deep)",
+                "example": "The wounded soldiers are being airlifted to the hospital."
+            },
+            {
+                "word": "x-ray",
+                "definition": "a photograph of a person's bones and organs",
+                "example": "The technician took x-rays of my shoulder to make sure it wasn't broken."
+            }
+        ]
+    },
+
+    {
+        "topic": "Music",
+        "vocabulary": [
+            {
+                "word": "beat",
+                "definition": "the regular pulse in music that dancers move to and audiences clap to",
+                "example": "Dance music always has a strong beat."
+            },
+            {
+                "word": "classical music",
+                "definition": "European orchestral and keyboard music that's written by composers",
+                "example": "Sayoko loves listening to classical music, especially the music of Mozart and Beethoven."
+            },
+            {
+                "word": "country music",
+                "definition": " a genre of American music with origins in the rural folk music of Europe",
+                "example": "Many people were surprised when Ray Charles began singing country music."
+            },
+            {
+                "word": "folk music",
+                "definition": "traditional music from a particular region or country",
+                "example": "Did you hear any traditional folk music while you were in China?"
+            },
+            {
+                "word": "genre",
+                "definition": "a kind or style of music, movie, TV show, painting, etc.",
+                "example": "In music classes at school, the only genres we studied were classical music and jazz."
+            },
+            {
+                "word": "harmony",
+                "definition": "the combining of musical notes that sound good when played or sung together",
+                "example": "If singers don't sing in harmony, it can sound terrible."
+            },
+            {
+                "word": "hip hop (also “rap”)",
+                "definition": "a musical genre in which artists rap over beats and sampled sounds",
+                "example": "When my girlfriend wants to listen to hip hop, she always puts on Jay-Z or Kanye West."
+            },
+            {
+                "word": "jazz",
+                "definition": "a genre in which artists improvise within a rhythmic and harmonic framework",
+                "example": "If you want to hear great jazz, listen to the recordings of John Coltrane and Miles Davis."
+            },
+            {
+                "word": "lyrics",
+                "definition": "the words of a song",
+                "example": "If you don't listen to the lyrics, you won't know what a song is about."
+            },
+            {
+                "word": "melody",
+                "definition": "a tune, or the notes of a song",
+                "example": "Can you whistle the melody of the song that begins with “Happy birthday to you”?"
+            },
+            {
+                "word": "pop music",
+                "definition": "a popular music genre with short, melodic songs that are easy to remember",
+                "example": "My uncle's nearly 60, but he still likes listening to pop music."
+            },
+            {
+                "word": "rhythm",
+                "definition": "a pattern of beats and sounds that musicians play in time to and dancers move to",
+                "example": "The rhythms of African music are much more complex than those of European music."
+            },
+            {
+                "word": "rock music",
+                "definition": "rhythmic blues-based music played on guitar, bass, drums, etc.",
+                "example": "Let's listen to some rock music for a change."
+            },
+            {
+                "word": "traditional music",
+                "definition": "music that developed over a very long time, like traditional African drumming and Chinese folk songs",
+                "example": "People still play traditional music in Peru's mountain villages."
+            }
+        ]
+    },
+
+    {
+        "topic": "Numbers",
+        "vocabulary": [
+            {
+                "word": "0",
+                "definition": "zero, nought",
+                "example": ""
+            },
+            {
+                "word": "1",
+                "definition": "one",
+                "example": ""
+            },
+            {
+                "word": "2",
+                "definition": "two",
+                "example": ""
+            },
+            {
+                "word": "3",
+                "definition": "three",
+                "example": ""
+            },
+            {
+                "word": "4",
+                "definition": "four",
+                "example": ""
+            },
+            {
+                "word": "5",
+                "definition": "five",
+                "example": ""
+            },
+            {
+                "word": "6",
+                "definition": "six",
+                "example": ""
+            },
+            {
+                "word": "7",
+                "definition": "seven",
+                "example": ""
+            },
+            {
+                "word": "8",
+                "definition": "eight",
+                "example": ""
+            },
+            {
+                "word": "9",
+                "definition": "nine",
+                "example": ""
+            },
+            {
+                "word": "10",
+                "definition": "ten",
+                "example": ""
+            },
+            {
+                "word": "11",
+                "definition": "eleven",
+                "example": ""
+            },
+            {
+                "word": "12",
+                "definition": "twelve",
+                "example": ""
+            },
+            {
+                "word": "13",
+                "definition": "thirteen",
+                "example": ""
+            },
+            {
+                "word": "14",
+                "definition": "fourteen",
+                "example": ""
+            },
+            {
+                "word": "15",
+                "definition": "fifteen",
+                "example": ""
+            },
+            {
+                "word": "16",
+                "definition": "sixteen",
+                "example": ""
+            },
+            {
+                "word": "17",
+                "definition": "seventeen",
+                "example": ""
+            },
+            {
+                "word": "18",
+                "definition": "eighteen",
+                "example": ""
+            },
+            {
+                "word": "19",
+                "definition": "nineteen",
+                "example": ""
+            },
+            {
+                "word": "20",
+                "definition": "twenty",
+                "example": ""
+            },
+            {
+                "word": "21",
+                "definition": "twenty-one",
+                "example": ""
+            },
+            {
+                "word": "22",
+                "definition": "twenty-two",
+                "example": ""
+            },
+            {
+                "word": "23",
+                "definition": "twenty-three",
+                "example": ""
+            },
+            {
+                "word": "24",
+                "definition": "twenty-four",
+                "example": ""
+            },
+            {
+                "word": "30",
+                "definition": "thirty",
+                "example": ""
+            },
+            {
+                "word": "31",
+                "definition": "thirty-one",
+                "example": ""
+            },
+            {
+                "word": "40",
+                "definition": "forty",
+                "example": ""
+            },
+            {
+                "word": "50",
+                "definition": "fifty",
+                "example": ""
+            },
+            {
+                "word": "60",
+                "definition": "sixty",
+                "example": ""
+            },
+            {
+                "word": "70",
+                "definition": "seventy",
+                "example": ""
+            },
+            {
+                "word": "80",
+                "definition": "eighty",
+                "example": ""
+            },
+            {
+                "word": "90",
+                "definition": "ninety",
+                "example": ""
+            },
+            {
+                "word": "100",
+                "definition": "one hundred",
+                "example": ""
+            },
+            {
+                "word": "101",
+                "definition": "one hundred and one",
+                "example": ""
+            },
+            {
+                "word": "100",
+                "definition": "one hundred",
+                "example": ""
+            },
+            {
+                "word": "152",
+                "definition": "one hundred and fifty-two",
+                "example": ""
+            },
+            {
+                "word": "200",
+                "definition": "two hundred",
+                "example": ""
+            },
+            {
+                "word": "1,000",
+                "definition": "one thousand",
+                "example": ""
+            },
+            {
+                "word": "1,000,000",
+                "definition": "one million",
+                "example": ""
+            },
+            {
+                "word": "1,000,000,000",
+                "definition": "one billion",
+                "example": ""
+            },
+            {
+                "word": "1,000,000,000,000",
+                "definition": "one trillion",
+                "example": ""
+            }
+        ]
+    },
+
+    {
+        "topic": "Sport",
+        "vocabulary": [
+            {
+                "word": "arena",
+                "definition": "a level area for holding sports events, surrounded by seats for spectators",
+                "example": "The arena was full of excited spectators cheering on their team."
+            },
+            {
+                "word": "amateur",
+                "definition": "engaged in something, like playing sports, without payment; non-professional",
+                "example": "The Olympic Games were originally for amateur athletes only."
+            },
+            {
+                "word": "athlete",
+                "definition": "a person who trains for and competes in a sport",
+                "example": "Most professional athletes spend hours every day in training."
+            },
+            {
+                "word": "award",
+                "definition": "to give someone something as a reward for high achievement",
+                "example": "All the members of the winning team were awarded a gold medal."
+            },
+            {
+                "word": "beat",
+                "definition": "to defeat someone in a game or a competition",
+                "example": "Italy beat France to win the 2006 FIFA World Cup."
+            },
+            {
+                "word": "champion",
+                "definition": "a top-rated, highly successful player",
+                "example": "The boxer Muhammad Ali was World Heavyweight Champion three times."
+            },
+            {
+                "word": "coach",
+                "definition": "a person who trains and directs an athlete or a sports team",
+                "example": "Players should carry out their coach's instructions during a game."
+            },
+            {
+                "word": "competition",
+                "definition": "an organized event in which people compete to win",
+                "example": "The English Premiership League is one of the world's top football competitions."
+            },
+            {
+                "word": "cup",
+                "definition": "a cup-shaped trophy, awarded as a prize in a contest",
+                "example": "After they won the final game, the winners were awarded the Championship Cup."
+            },
+            {
+                "word": "defeat",
+                "definition": "to win a victory over opponents in a game or contest; to beat",
+                "example": "Our players were very happy after they defeated their opponents in the final game."
+            },
+            {
+                "word": "fitness",
+                "definition": "the condition of being physically fit and healthy",
+                "example": "I exercise at the gym every day for fitness and good health."
+            },
+            {
+                "word": "gym / gymnasium",
+                "definition": "a room or building equipped for physical exercise",
+                "example": "Our gym has a lot of new exercise equipment, including running machines and cycling machines."
+            },
+            {
+                "word": "medal",
+                "definition": "a piece of engraved metal given to signify an achievement or an honor",
+                "example": "Every athlete's dream is to win a gold medal at the Olympic Games."
+            },
+            {
+                "word": "score",
+                "definition": "the number of points a competitor or team earns during a game",
+                "example": "Do you know how to keep score in badminton?"
+            },
+            {
+                "word": "stadium",
+                "definition": "a sports arena with tiered seating for spectators",
+                "example": "The stadium was built for sports, but it's sometimes used for concerts as well."
+            },
+            {
+                "word": "trainer",
+                "definition": "a person who helps athletes develop their skills and fitness",
+                "example": "Some players are a bit lazy and need a strict trainer to make them work hard."
+            },
+            {
+                "word": "victory",
+                "definition": "the act of winning a game or contest",
+                "example": "The players had worked very hard, and they deserved their victory."
+            }
+        ]
+    },
+
+    {
+        "topic": "Weather",
+        "vocabulary": [
+            {
+                "word": "airconditioner",
+                "definition": "an appliance that cools down the air in a home or building",
+                "example": "The airconditioner keeps the office nice and comfortable even when it's very hot outside."
+            },
+            {
+                "word": "avalanche",
+                "definition": "a dangerous slide of snow down a mountain",
+                "example": "The skiers were warned about a possible avalanche."
+            },
+            {
+                "word": "below freezing",
+                "definition": "temperature less than 0 degrees Celsius/(32F)",
+                "example": "It's supposed to go below freezing before the weekend."
+            },
+            {
+                "word": "blizzard",
+                "definition": "a storm with lots of snow and wind",
+                "example": "The airplane couldn't take-off because of the blizzard."
+            },
+            {
+                "word": "boiling hot",
+                "definition": "common expression for describing a very hot day",
+                "example": "It was boiling hot, so we all jumped into the lake."
+            },
+            {
+                "word": "breeze",
+                "definition": "light wind",
+                "example": "Don't bother with a hat. There is always a breeze near the ocean."
+            },
+            {
+                "word": "cloud / cloudy",
+                "definition": "water in the sky that appears as a white or grey mass",
+                "example": "It may look cloudy in the morning, but the sun always comes out by afternoon."
+            },
+            {
+                "word": "drizzling",
+                "definition": "raining slightly",
+                "example": "I think I'll take the dog for a walk. It's only drizzling now."
+            },
+            {
+                "word": "fog / foggy",
+                "definition": "thick water vapor that blocks one's vision",
+                "example": "We couldn't see the bridge because there was too much fog."
+            },
+            {
+                "word": "forecast",
+                "definition": "the expected weather for the future",
+                "example": "According to the 5 day forecast, it's going to rain on our wedding day."
+            },
+            {
+                "word": "heat-wave",
+                "definition": "extremely hot weather that is much higher than average",
+                "example": "During the heat-wave we cooled our beds down with ice packs."
+            },
+            {
+                "word": "hurricane",
+                "definition": "a tropical storm with very strong wind and rain",
+                "example": "Half of the buildings on the island were flattened by the hurricane."
+            },
+            {
+                "word": "lightning",
+                "definition": "electrical discharge and flash between a cloud and the ground",
+                "example": "The outdoor pool always closes when the lifeguards think lightning is coming."
+            },
+            {
+                "word": "rain / raining / rainy",
+                "definition": "water that falls to earth",
+                "example": "My hair is all wet and messy from the rain."
+            },
+            {
+                "word": "rainbow",
+                "definition": "a band of colours found in the sky after a rainfall",
+                "example": "According to legend you can find a pot of gold at the end of a rainbow."
+            },
+            {
+                "word": "smog",
+                "definition": "heavy,dark cloud cover caused by pollution",
+                "example": "You really notice the smog downtown in this type of humidity."
+            },
+            {
+                "word": "snow / snowy / snowing",
+                "definition": "frozen water that warms slightly as it falls to earth",
+                "example": "It is already snowing up in the mountains, so the ski season should be great this year."
+            },
+            {
+                "word": "sun / sunshine / sunny",
+                "definition": "the gassy star that warms the earth",
+                "example": "We hope to have sunshine on the day of the beach picnic."
+            },
+            {
+                "word": "temperature",
+                "definition": "how warm or cold the air is",
+                "example": "how warm or cold the air is"
+            },
+            {
+                "word": "thunder / thunderstorm",
+                "definition": "thunder is a loud noise after lightning, caused by rapid expansion of air superheated by the lightning",
+                "example": "Let's close all of the windows. It looks like a thunderstorm is coming."
+            },
+            {
+                "word": "wind / windy",
+                "definition": "blowing air outside",
+                "example": "It's too windy to play golf today."
+            }
+        ]
+    },
+
+    {
+        "topic": "Time",
+        "vocabulary": [
+            {
+                "word": "afternoon",
+                "definition": "the middle part of the day",
+                "example": "I'll see you again tomorrow afternoon."
+            },
+            {
+                "word": "autumn",
+                "definition": "the season between summer and winter",
+                "example": "She went off to college in the autumn of 1999."
+            },
+            {
+                "word": "century",
+                "definition": "a period of 100 years",
+                "example": "It took more than a century to complete the cathedral."
+            },
+            {
+                "word": "dawn",
+                "definition": "the time of day when sunlight first begins to appear",
+                "example": "We danced till dawn."
+            },
+            {
+                "word": "day",
+                "definition": "a period of 24 hours beginning at midnight : one of the seven time periods that make up a week",
+                "example": "We're open seven days a week, 365 days a year."
+            },
+            {
+                "word": "decade",
+                "definition": "a period of 10 years",
+                "example": "The war lasted nearly a decade."
+            },
+            {
+                "word": "evening",
+                "definition": "the last part of the day and early part of the night",
+                "example": "We're going out to dinner this evening."
+            },
+            {
+                "word": "fall",
+                "definition": "the season between summer and winter",
+                "example": "Fall is one of my favorite seasons, because all foliage changes colors to yellow, red, it's beautiful."
+            },
+            {
+                "word": "hour",
+                "definition": "one of the 24 equal parts of a day : 60 minutes",
+                "example": "The job pays ten dollars an hour."
+            },
+            {
+                "word": "midnight",
+                "definition": "the middle of the night : 12 o'clock at night",
+                "example": "Her parents wanted her home before midnight."
+            },
+            {
+                "word": "minute",
+                "definition": "a unit of time equal to 60 seconds",
+                "example": "Bake the cake for 25–30 minutes."
+            },
+            {
+                "word": "moment",
+                "definition": "a very short period of time",
+                "example": "She stopped for a moment and peeked into the window."
+            },
+            {
+                "word": "month",
+                "definition": "any one of the 12 parts into which the year is divided",
+                "example": "July is my favorite month."
+            },
+            {
+                "word": "morning",
+                "definition": "the early part of the day : the time of day from sunrise until noon",
+                "example": "On Sunday mornings I like to relax and read the newspaper."
+            },
+            {
+                "word": "night",
+                "definition": "the time of darkness between one day and the next",
+                "example": "Who are you calling at this time of night?"
+            },
+            {
+                "word": "noon",
+                "definition": "the middle of the day : 12 o'clock in the daytime",
+                "example": "Meet me at noon."
+            },
+            {
+                "word": "pause",
+                "definition": "a temporary stop",
+                "example": "After a pause the teacher continued the lesson."
+            },
+            {
+                "word": "phase",
+                "definition": "a part or step in a process",
+                "example": "The project will be done in three phases."
+            },
+            {
+                "word": "second",
+                "definition": "a unit of time that is equal to ¹/₆₀ of a minute",
+                "example": "There are 60 seconds in a minute."
+            },
+            {
+                "word": "spring",
+                "definition": "the season between winter and summer",
+                "example": "We've had a rainy spring."
+            },
+            {
+                "word": "summer",
+                "definition": "the warmest season of the year that is after spring and before autumn",
+                "example": ""
+            },
+            {
+                "word": "today",
+                "definition": "(on) the present day",
+                "example": "What's the date today?"
+            },
+            {
+                "word": "tonight",
+                "definition": "(during) the night of the present day",
+                "example": "Tonight will be my first chance to meet her."
+            },
+            {
+                "word": "tomorrow",
+                "definition": "on the day after today",
+                "example": "I'll see you tomorrow"
+            },
+            {
+                "word": "week",
+                "definition": "a period of seven days",
+                "example": "I can meet you sometime next week."
+            },
+            {
+                "word": "weekend",
+                "definition": "Saturday and Sunday",
+                "example": "What are you doing this weekend?"
+            },
+            {
+                "word": "winter",
+                "definition": "the coldest season of the year that is after autumn and before spring",
+                "example": "They spend winters in Florida."
+            },
+            {
+                "word": "year",
+                "definition": "a unit of time that is equal to 12 months or 365 or sometimes 366 days",
+                "example": "I haven't seen her in a year."
+            }
+        ]
+    },
+
+    {
+        "topic": "Criminals",
+        "vocabulary": [
+            {
+                "word": "assassin",
+                "definition": "kills people for political reasons, or in return for payment",
+                "example": ""
+            },
+            {
+                "word": "burglar",
+                "definition": "breaks in to buildings to steal",
+                "example": ""
+            },
+            {
+                "word": "drug dealer",
+                "definition": "buys and sells illegal drugs",
+                "example": ""
+            },
+            {
+                "word": "gangster",
+                "definition": "is a member of a violent criminal gang (group)",
+                "example": ""
+            },
+            {
+                "word": "hooligan",
+                "definition": "is a violent young troublemaker",
+                "example": ""
+            },
+            {
+                "word": "kidnapper",
+                "definition": "takes people away by force and demands money to free them",
+                "example": ""
+            },
+            {
+                "word": "murderer",
+                "definition": "deliberately kills another person",
+                "example": ""
+            },
+            {
+                "word": "robber",
+                "definition": "steals money etc, using force or the threat of force",
+                "example": ""
+            },
+            {
+                "word": "spy",
+                "definition": "secretly gets information about another country",
+                "example": ""
+            },
+            {
+                "word": "terrorist",
+                "definition": "uses violence for political reasons",
+                "example": ""
+            },
+            {
+                "word": "thief",
+                "definition": "steals property from other people (without using violence)",
+                "example": ""
+            },
+            {
+                "word": "vandal",
+                "definition": "deliberately destroys or damages public property",
+                "example": ""
+            }
+        ]
+    },
+
+    {
+        "topic": "Movies",
+        "vocabulary": [
+            {
+                "word": "action movie",
+                "definition": "a movie with many exciting and violent scenes",
+                "example": "Our teenage boys love watching action movies."
+            },
+            {
+                "word": "cast",
+                "definition": "all the actors and actresses in a movie or TV show",
+                "example": "It had a good cast, but the story wasn't very interesting."
+            },
+            {
+                "word": "character",
+                "definition": "one of the people in a story",
+                "example": "Harry likes movies with lots of interesting and unusual characters."
+            },
+            {
+                "word": "cinema",
+                "definition": "a place where movies are shown on a big screen",
+                "example": "Let's meet in front of the cinema just before the movie starts."
+            },
+            {
+                "word": "comedy",
+                "definition": "a film with lots of funny scenes",
+                "example": "Let's see a comedy and have a good laugh."
+            },
+            {
+                "word": "director",
+                "definition": "the person in charge of making a movie",
+                "example": "The director gets really angry when actors forget their lines."
+            },
+            {
+                "word": "documentary",
+                "definition": "a film that's about real people, events or issues",
+                "example": "How can you eat junk food after seeing that documentary Super Size Me?"
+            },
+            {
+                "word": "drama",
+                "definition": "a movie about realistic characters in dramatic situations",
+                "example": "Maria loves legal dramas with lots of courtroom scenes."
+            },
+            {
+                "word": "horror movie",
+                "definition": "a movie that frightens and shocks people",
+                "example": "If you love horror movies, you've got to see Fright Night."
+            },
+            {
+                "word": "plot",
+                "definition": "the series of events that form the main story",
+                "example": "It was a good film, but the plot was difficult to follow at times."
+            },
+            {
+                "word": "sci-fi (or science fiction)",
+                "definition": "a genre with stories set in the future or in outer space",
+                "example": "Have you seen that sci-fi film Interstellar yet?"
+            }
+        ]
+    },
+
+    
+    {
+        "topic": "Holidays",
+        "vocabulary": [
+            {
+                "word": "all-in package",
+                "definition": "a holiday where you purchase the travel and accommodation together",
+                "example": ""
+            },
+            {
+                "word": "backpacking",
+                "definition": "to travel or hike carrying one's belongings in a backpack",
+                "example": ""
+            },
+            {
+                "word": "breathtaking view",
+                "definition": "an extremely beautiful view",
+                "example": ""
+            },
+            {
+                "word": "camping",
+                "definition": "the activity of spending a holiday (vacation) living in a tent or campervan",
+                "example": ""
+            },
+            {
+                "word": "charter-flight",
+                "definition": "a cheaper form of flying than a scheduled flight",
+                "example": ""
+            },
+            {
+                "word": "check in desk",
+                "definition": "the place at the airport where you register for your flight and deposit your luggage",
+                "example": ""
+            },
+            {
+                "word": "departure lounge",
+                "definition": "where you wait for your flight to be called",
+                "example": ""
+            },
+            {
+                "word": "far-off destination",
+                "definition": "somewhere a long way away",
+                "example": ""
+            },
+            {
+                "word": "guided tour",
+                "definition": "an organised group shown around a place of interest by an expert",
+                "example": ""
+            },
+            {
+                "word": "holiday brochure",
+                "definition": "a glossy publication with details of holiday packages",
+                "example": ""
+            },
+            {
+                "word": "holiday destination",
+                "definition": "where you go for a holiday",
+                "example": ""
+            },
+            {
+                "word": "holiday of a lifetime",
+                "definition": "a special holiday that you are unlikely to repeat",
+                "example": ""
+            },
+            {
+                "word": "holiday resort",
+                "definition": "a place where lots of people go for a holiday",
+                "example": ""
+            },
+            {
+                "word": "hordes of tourists",
+                "definition": "crowds of tourists",
+                "example": ""
+            },
+            {
+                "word": "local crafts",
+                "definition": "objects produced locally",
+                "example": ""
+            },
+            {
+                "word": "long weekend",
+                "definition": "an extended weekend holiday including Friday or Monday",
+                "example": ""
+            },
+            {
+                "word": "out of season",
+                "definition": "outside of the main holiday period",
+                "example": ""
+            },
+            {
+                "word": "passport control",
+                "definition": "the place where your passport is checked",
+                "example": ""
+            },
+            {
+                "word": "picturesque village",
+                "definition": "very pretty village",
+                "example": ""
+            },
+            {
+                "word": "places of interests",
+                "definition": "sites of interest to tourists",
+                "example": ""
+            },
+            {
+                "word": "self catering",
+                "definition": "a holiday where you supply your own food",
+                "example": ""
+            },
+            {
+                "word": "short break",
+                "definition": "a short holiday",
+                "example": ""
+            },
+            {
+                "word": "stunning landscape",
+                "definition": "extremely beautiful countryside",
+                "example": ""
+            },
+            {
+                "word": "to get away from it all",
+                "definition": "to get away from it all: to take a holiday to escape a busy or stressful lifestyle",
+                "example": ""
+            },
+            {
+                "word": "to go sight seeing",
+                "definition": "to look around the tourist sites",
+                "example": ""
+            },
+            {
+                "word": "tourist map",
+                "definition": "somewhere where too many tourists go",
+                "example": ""
+            },
+            {
+                "word": "travel agent",
+                "definition": "a shop that specializes in booking holidays",
+                "example": ""
+            },
+            {
+                "word": "vacation",
+                "definition": "the American term for 'holiday'.",
+                "example": ""
+            },
+            {
+                "word": "wildlife safari",
+                "definition": "a holiday, often in Africa, to observe wild animals",
+                "example": ""
+            },
+            {
+                "word": "youth hostel",
+                "definition": "a cheap form of accommodation",
+                "example": ""
+            }
+        ]
+    },
+
+    {
+        "topic": "World",
+        "vocabulary": [
+            {
+                "word": "air",
+                "definition": "the mixture of gases that surrounds the earth and that we breathe",
+                "example": "I went outside to get some fresh air."
+            },
+            {
+                "word": "water",
+                "definition": "a clear liquid, without colour or taste, that falls from the sky as rain and is necessary for animal and plant life",
+                "example": "The human body is about 50 percent water."
+            },
+            {
+                "word": "land",
+                "definition": "the surface of the earth that is not covered by water",
+                "example": "It is cheaper to drill for oil on land than at sea."
+            },
+            {
+                "word": "continent",
+                "definition": "one of the seven large land masses on the earth's surface, surrounded, or mainly surrounded, by sea and usually consisting of various countries",
+                "example": "Stanley traversed the African continent from west to east."
+            },
+            {
+                "word": "island",
+                "definition": "a piece of land completely surrounded by water",
+                "example": "They live on the large Japanese island of Hokkaido."
+            },
+            {
+                "word": "mountain",
+                "definition": "a raised part of the earth's surface, much larger than a hill, the top of which might be covered in snow",
+                "example": "The Matterhorn is one of the biggest mountains in Europe."
+            },
+            {
+                "word": "ocean",
+                "definition": "a very large area of sea",
+                "example": "These mysterious creatures live at the bottom of the ocean."
+            },
+            {
+                "word": "sea",
+                "definition": "the salty water that covers a large part of the surface of the earth, or a large area of salty water, smaller than an ocean, that is partly or completely surrounded by land",
+                "example": "We went swimming in the sea."
+            },
+            {
+                "word": "lake",
+                "definition": "a large area of water surrounded by land and not connected to the sea except by rivers or streams",
+                "example": "We used to go boating on that lake."
+            },
+            {
+                "word": "river",
+                "definition": "a natural wide flow of fresh water across the land into the sea, a lake, or another river",
+                "example": "We sailed slowly down the river."
+            },
+            {
+                "word": "country",
+                "definition": "an area of land that has its own government, army, etc.",
+                "example": "Sri Lanka is my native country, but I've been living in Belgium for the past five years."
+            }
+        ]
+
+    },
+
+    {
+        "topic": "Computer",
+        "vocabulary": [
+            {
+                "word": "app",
+                "definition": "a self-contained program or piece of software; an application, especially when downloadable to a mobile device",
+                "example": ""
+            },
+            {
+                "word": "backup",
+                "definition": "a copy of files from a computer's hard disk, usually made on some external medium such as CD-ROM or flash drive",
+                "example": ""
+            },
+            {
+                "word": "bit, bytes",
+                "definition": "a bit is the smallest piece of information that computers use. For simplicity, a PC uses bits in groups of 8 called bytes (8 bits = 1 byte)",
+                "example": ""
+            },
+            {
+                "word": "browser",
+                "definition": "a program like Firefox or Internet Explorer. You use it to view or browse the Internet",
+                "example": ""
+            },
+            {
+                "word": "bug",
+                "definition": "a defect or fault in a program",
+                "example": ""
+            },
+            {
+                "word": "cache",
+                "definition": "a kind of memory used to make a computer work faster",
+                "example": ""
+            },
+            {
+                "word": "data",
+                "definition": "the information (text, pictures, audio etc) that you create or share on a computer",
+                "example": ""
+            },
+            {
+                "word": "driver",
+                "definition": "a small program that tells a PC how a peripheral works",
+                "example": ""
+            },
+            {
+                "word": "electronic mail (email, e-mail)",
+                "definition": "messages sent from one computer to another",
+                "example": ""
+            },
+            {
+                "word": "file",
+                "definition": "a specific computer record. It could contain data such as text (e.g. essay.doc), or a program such as paint.exe",
+                "example": ""
+            },
+            {
+                "word": "folder",
+                "definition": "a sub-division of a computer's hard disk into which you put files",
+                "example": ""
+            },
+            {
+                "word": "hard disk",
+                "definition": "the main disk inside a computer used for storing programs and information",
+                "example": ""
+            },
+            {
+                "word": "pixel",
+                "definition": "the image that you see on the screen is made of thousands of tiny dots, points or pixels",
+                "example": ""
+            },
+            {
+                "word": "resolution",
+                "definition": "the number of dots or pixels per inch (sometimes per centimetre) used to create the screen image",
+                "example": ""
+            },
+            {
+                "word": "smartphone",
+                "definition": "a mobile phone that includes a palmtop computer or PDA and also gives access to Internet and email",
+                "example": ""
+            },
+            {
+                "word": "tablet",
+                "definition": "a tablet computer; a mobile computer consisting of a screen only, and controlled by touching the screen",
+                "example": ""
+            },
+            {
+                "word": "virus",
+                "definition": "a small, unauthorized program that can damage a computer",
+                "example": ""
+            }
+        ]
+    },
+
+    {
+        "topic": "Job",
+        "vocabulary": [
+            {
+                "word": "accountant",
+                "definition": "someone whose job is to keep the financial records of a business or person",
+                "example": ""
+            },
+            {
+                "word": "actor / actress",
+                "definition": "a person who acts in a play, movie, etc.",
+                "example": ""
+            },
+            {
+                "word": "architect",
+                "definition": "a person who designs buildings",
+                "example": ""
+            },
+            {
+                "word": "artist",
+                "definition": "a person who creates art",
+                "example": ""
+            },
+            {
+                "word": "banker",
+                "definition": "a person who owns a bank or who has an important job in a bank",
+                "example": ""
+            },
+            {
+                "word": "builder",
+                "definition": "a person or company that builds or repairs things",
+                "example": ""
+            },
+            {
+                "word": "businessman / businesswoman / businessperson",
+                "definition": "a man or woman who works in business",
+                "example": ""
+            },
+            {
+                "word": "chef",
+                "definition": "a professional cook who usually is in charge of a kitchen in a restaurant",
+                "example": ""
+            },
+            {
+                "word": "dentist",
+                "definition": "a person whose job is to care for people's teeth",
+                "example": ""
+            },
+            {
+                "word": "designer",
+                "definition": "a person who plans how something new will look and be made",
+                "example": ""
+            },
+            {
+                "word": "doctor",
+                "definition": "a person who is skilled in the science of medicine",
+                "example": "He needed medicine but refused to go to a doctor."
+            },
+            {
+                "word": "economist",
+                "definition": "a person who studies or specializes in economics",
+                "example": "Economists are predicting rapid inflation."
+            },
+            {
+                "word": "electrician",
+                "definition": "a person who works on and repairs electrical equipment",
+                "example": ""
+            },
+            {
+                "word": "engineer",
+                "definition": "a person who has scientific training and who designs and builds complicated products, machines, systems, or structures",
+                "example": "Design engineers are working on ways to make the cars run more efficiently."
+            }
+        ]
+    },
+
+    {
+        "topic": "Food",
+        "vocabulary": [
+            {
+                "word": "appetizer",
+                "definition": "food served before the main course",
+                "example": "For our appetizers we'll have spring rolls and fish cakes, please."
+            },
+            {
+                "word": "aroma",
+                "definition": "a nice smell, especially from food, wine, coffee, etc.",
+                "example": "I love the aroma of freshly-baked bread."
+            },
+            {
+                "word": "bake",
+                "definition": "to cook in an oven",
+                "example": "Have you ever tried baking a cake?"
+            },
+            {
+                "word": "bland",
+                "definition": "having little taste; tasteless",
+                "example": "Most people think British food is bland."
+            },
+            {
+                "word": "course",
+                "definition": "one part of a meal",
+                "example": "French meals usually have three courses; the hors d'oeuvre, the entrée and the dessert."
+            },
+            {
+                "word": "cuisine",
+                "definition": "a country or region's style of cooking",
+                "example": "There's more to Italian cuisine than pizza and pasta."
+            },
+            {
+                "word": "cutlery (also silverware)",
+                "definition": "knives, forks, and spoons used for eating",
+                "example": "We only use our best cutlery on special occasions."
+            },
+            {
+                "word": "dairy product",
+                "definition": "a food made from milk, like butter, cheese, yoghurt, etc.",
+                "example": "Dairy products are becoming more popular in Asia."
+            },
+            {
+                "word": "delicious",
+                "definition": "tasting very good",
+                "example": "The food in this restaurant is really delicious."
+            },
+            {
+                "word": "dessert",
+                "definition": "sweet food eaten at the end of a meal",
+                "example": "Have you ever tried Middle-eastern desserts like baklava?"
+            },
+            {
+                "word": "diet",
+                "definition": "all the foods a person or animal usually eats",
+                "example": "My doctor said a vegetarian diet rich in protein is best."
+            },
+            {
+                "word": "dish",
+                "definition": "a deep plate for cooking or serving food",
+                "example": "I baked the pie in a special pie dish."
+            },
+            {
+                "word": "dish",
+                "definition": "food prepared and cooked in a particular way",
+                "example": "What's your favourite French dish?"
+            },
+            {
+                "word": "entrée",
+                "definition": "the main course of a meal",
+                "example": "What did you order for your entrée?"
+            },
+            {
+                "word": "fast food",
+                "definition": "quickly served food like burgers, French fries, fried chicken, etc.",
+                "example": "I only get fast food if I don't have time to cook."
+            },
+            {
+                "word": "flavour",
+                "definition": "the taste of food or drink",
+                "example": "Japanese people think how food looks is as important as the flavour."
+            },
+            {
+                "word": "fry",
+                "definition": "to cook something in hot oil or fat",
+                "example": "Heat oil in a pan and fry the chopped onions for five minutes."
+            },
+            {
+                "word": "grain",
+                "definition": "seeds used as food like wheat, rice, lentils, etc.",
+                "example": "Grains like wheat and rye are used to make different kinds of bread."
+            },
+            {
+                "word": "grill",
+                "definition": "to cook something just above or below a heat source ",
+                "example": "Grilling a fish is better than frying it."
+            },
+            {
+                "word": "ingredients",
+                "definition": "all the foods used to make a dish or meal",
+                "example": "What ingredients do we need to make spaghetti sauce?"
+            },
+            {
+                "word": "junk food",
+                "definition": "foods and food products that are unhealthy because of all the fat, salt or sugar they contain",
+                "example": "People who love junk food soon get fat and unhealthy."
+            },
+            {
+                "word": "menu",
+                "definition": "the list of foods and drinks served in a restaurant, café, pub, etc.",
+                "example": "Let's check the menu before deciding whether to eat here."
+            },
+            {
+                "word": "recipe",
+                "definition": "instructions for cooking a dish or a meal",
+                "example": "My mum has a great recipe for chocolate pudding."
+            },
+            {
+                "word": "seafood",
+                "definition": "anything from the sea that can be eaten",
+                "example": "If you eat vegetarian food plus fish and seafood, but not meat or poultry, you're a pescatarian/pescetarian."
+            },
+            {
+                "word": "tasty",
+                "definition": "tasting very good",
+                "example": "Bob thinks Indian food is tastier than Chinese food."
+            }
+        ]
+    },
+
+    {
+        "topic": "Colours",
+        "vocabulary": [
+            {
+                "word": "red",
+                "definition": "red",
+                "example": ""
+            },
+            {
+                "word": "blue",
+                "definition": "blue",
+                "example": ""
+            },
+            {
+                "word": "green",
+                "definition": "green",
+                "example": ""
+            },
+            {
+                "word": "yellow",
+                "definition": "yellow",
+                "example": ""
+            },
+            {
+                "word": "purple",
+                "definition": "purple",
+                "example": ""
+            },
+            {
+                "word": "pink",
+                "definition": "pink",
+                "example": ""
+            },
+            {
+                "word": "orange",
+                "definition": "orange",
+                "example": ""
+            },
+            {
+                "word": "brown",
+                "definition": "brown",
+                "example": ""
+            },
+            {
+                "word": "black",
+                "definition": "black",
+                "example": ""
+            },
+            {
+                "word": "white",
+                "definition": "white",
+                "example": ""
+            },
+            {
+                "word": "gray",
+                "definition": "gray",
+                "example": ""
+            },
+            {
+                "word": "gold",
+                "definition": "gold",
+                "example": ""
+            },
+            {
+                "word": "silver",
+                "definition": "silver",
+                "example": ""
+            },
+            {
+                "word": "navy blue",
+                "definition": "navy",
+                "example": ""
+            },
+            {
+                "word": "sky blue",
+                "definition": "skyblue",
+                "example": ""
+            },
+            {
+                "word": "lime green",
+                "definition": "limegreen",
+                "example": ""
+            },
+            {
+                "word": "teal",
+                "definition": "teal",
+                "example": ""
+            },
+            {
+                "word": "indigo",
+                "definition": "indigo",
+                "example": ""
+            },
+            {
+                "word": "magenta",
+                "definition": "darkmagenta",
+                "example": ""
+            },
+            {
+                "word": "violet",
+                "definition": "violet",
+                "example": ""
+            },
+            {
+                "word": "khaki",
+                "definition": "khaki",
+                "example": ""
+            },
+            {
+                "word": "salmon",
+                "definition": "salmon",
+                "example": ""
+            },
+            {
+                "word": "crimson",
+                "definition": "crimson",
+                "example": ""
+            }
+        ]
+    },
+
+    {
+        "topic": "Family",
+        "vocabulary": [
+            {
+                "word": "parent",
+                "definition": "relative of whom I am the child",
+                "example": "Father / Mother"
+            },
+            {
+                "word": "sibling",
+                "definition": "we have the same father and mother",
+                "example": "Brother / Sister"
+            },
+            {
+                "word": "uncle / aunt",
+                "definition": "sibling of my parent",
+                "example": ""
+            },
+            {
+                "word": "grandparent",
+                "definition": "parent of my parent",
+                "example": "Grandfather / Grandmother"
+            },
+            {
+                "word": "cousin",
+                "definition": "child of my uncle or aunt",
+                "example": ""
+            },
+            {
+                "word": "spouse",
+                "definition": "relative to whom I am married",
+                "example": "Husband / Wife"
+            },
+            {
+                "word": "child",
+                "definition": "relative of whom I am the parent",
+                "example": "Son / Daughter"
+            },
+            {
+                "word": "nephew / niece",
+                "definition": "child of my sibling",
+                "example": ""
+            },
+            {
+                "word": "grandchild",
+                "definition": "child of my child",
+                "example": "Grandson / Granddaughter"
+            },
+            {
+                "word": "great grandparent",
+                "definition": "parent of my grandparent",
+                "example": "Great grandfather / grandmother"
+            },
+            {
+                "word": "parent-in-law",
+                "definition": "parent of my spouse",
+                "example": "Father-in-law / Mother in-law"
+            },
+            {
+                "word": "sibling-in-law",
+                "definition": "sibling of my spouse; spouse of my sibling",
+                "example": "Brother-in-law / Sister in-law"
+            },
+            {
+                "word": "child-in-law",
+                "definition": "spouse of my daughter/son",
+                "example": "Son-in-law / Daughter-in-law"
+            },
+            {
+                "word": "ex-spouse",
+                "definition": "my previous spouse (we divorced)",
+                "example": "Ex-husband / Ex-wife"
+            },
+            {
+                "word": "half-sibling",
+                "definition": "my sibling born to my father or mother but not both",
+                "example": "Half-brother / Half-sister"
+            },
+            {
+                "word": "step-parent",
+                "definition": "new spouse of one of my parents",
+                "example": "Step-father / Step-mother"
+            },
+            {
+                "word": "step-child",
+                "definition": "child of my spouse but not of me",
+                "example": "Step-son / Step-daughter"
+            }
+        ]
+    },
+
+    {
+        "topic": "Hobbies",
+        "vocabulary": [
+            {
+                "word": "Reading books",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Blogging",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Dancing",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Singing",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Listening to music",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Playing musical instruments",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Learning new languages",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Shopping",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Traveling",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Cycling",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Painting",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Playing computer games",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Cooking",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Knitting",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Fishing",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Photography",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Skating",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Roller skating",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "Surfing",
+                "definition": "",
+                "example": ""
+            }
+        ]
+    },
+
+    {
+        "topic": "Body",
+        "vocabulary": [
+            {
+                "word": "ankle",
+                "definition": "the joint where the foot joins the leg",
+                "example": ""
+            },
+            {
+                "word": "arm",
+                "definition": "either one of the two long body parts that join the top of your body at the shoulder and that end at the hand or wrist",
+                "example": ""
+            },
+            {
+                "word": "beard",
+                "definition": "the hair that grows on a man's cheeks and chin",
+                "example": ""
+            },
+            {
+                "word": "breast",
+                "definition": "the front part of the body between the neck and the stomach",
+                "example": ""
+            },
+            {
+                "word": "breast",
+                "definition": "either one of the two soft parts on a woman's chest that produce milk when she has a baby",
+                "example": ""
+            },
+            {
+                "word": "cheek",
+                "definition": "the part of the face that is below the eye and to the side of the nose and mouth",
+                "example": ""
+            },
+            {
+                "word": "chest",
+                "definition": "the front part of the body between the neck and the stomach",
+                "example": ""
+            },
+            {
+                "word": "chin",
+                "definition": "the part of the face below the mouth and above the neck",
+                "example": ""
+            },
+            {
+                "word": "elbow",
+                "definition": "the joint where your arm bends",
+                "example": ""
+            },
+            {
+                "word": "eyebrow",
+                "definition": "the line of hair that grows over your eye",
+                "example": ""
+            },
+            {
+                "word": "eyelash",
+                "definition": "any one of the hairs that grow along the top of the eyelid",
+                "example": ""
+            },
+            {
+                "word": "finger",
+                "definition": "one of the five long parts of the hand that are used for holding things",
+                "example": ""
+            },
+            {
+                "word": "heel",
+                "definition": "the back part of your foot that is below the ankle",
+                "example": ""
+            },
+            {
+                "word": "knee",
+                "definition": "the joint that bends at the middle of your leg",
+                "example": ""
+            },
+            {
+                "word": "leg",
+                "definition": "one of the long body parts that are used especially for standing, walking, and running",
+                "example": ""
+            },
+            {
+                "word": "lip",
+                "definition": "either one of the two soft parts that surround the mouth",
+                "example": ""
+            },
+            {
+                "word": "mouth",
+                "definition": "the opening through which food passes into the body",
+                "example": ""
+            }
+        ]
+
+    },
+
+    {
+        "topic": "Animals",
+        "vocabulary": [
+            {
+                "word": "bear",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "camel",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "cat",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "crab",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "crocodile",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "deer",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "dog",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "dolphin",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "duck",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "elephant",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "fish",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "fox",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "giraffe",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "goat",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "hedgehog",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "hippopotamus",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "horse",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "jellyfish",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "kangaroo",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "lion",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "monkey",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "panda-bear",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "peacock",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "pig",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "rhinoceros",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "seahorse",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "shark",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "sheep",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "snake",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "starfish",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "tiger",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "turkey",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "whale",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "wolf",
+                "definition": "",
+                "example": ""
+            },
+            {
+                "word": "zebra",
+                "definition": "",
+                "example": ""
+            }
+        ]
+    }
+]

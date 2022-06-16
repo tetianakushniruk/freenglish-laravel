@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\VocabularyController;
 use App\Http\Controllers\GrammarController;
+use App\Http\Controllers\TestsController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -46,3 +47,9 @@ function ($topic) {})->name('grammar_info');
 Route::get('/tests', function () {
     return view('tests');
 })->name('tests');
+
+Route::get('/tests/{topic}', [TestsController::class, 'show_info'],
+function ($topic) {})->name('tests_info');
+
+Route::post('/tests/{topic}/test_check', [TestsController::class, 'test_check'],
+function ($topic) {})->name('test_check');

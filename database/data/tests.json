@@ -1,0 +1,220 @@
+[
+    {
+        "topic": "For Schools",
+        "questions": [
+            {   
+                "question": "Could you tell me your surname?",
+                "options": ["Would you like me to spell it?", "Do you like my family name?", "How do I say that?"],
+                "answer": "Would you like me to spell it?"
+            },
+            
+            {   "question": "This plant looks dead.",
+                "options": ["It's in the garden.", "It only needs some water.", "It's sleeping."],
+                "answer": "It only needs some water."
+            },
+
+            {   "question": "I hope it doesn't rain.",
+                "options": ["Of course not.", "Will it be wet?", "So do I."],
+                "answer": "So do I."
+            },
+
+            {   "question": "Are you going to come inside soon?",
+                "options": ["For ever.", "Not long.", "In a minute."],
+                "answer": "In a minute."
+            },
+
+            {   "question": "Who gave you this book, Lucy?",
+                "options": ["I bought it.", "For my birthday.", "My uncle was."],
+                "answer": "I bought it."
+            },
+
+            {   "question": "Shall we go out for pizza tonight?",
+                "options": ["I know that.", "It's very good.", "I'm too tired."],
+                "answer": "I'm too tired."
+            },
+
+            {   "question": "Do you mind if I come too?",
+                "options": ["That's fine!", "I'd like to.", "I don't know if I can."],
+                "answer": "That's fine!"
+            },
+
+            {   "question": "There's someone at the door.",
+                "options": ["Can I help you?", "Well, go and answer it then.", "He's busy at the moment."],
+                "answer": "Well, go and answer it then."
+            },
+
+            {   "question": "How much butter do I need for this cake?",
+                "options": ["I'd like one.", "I'll use some.", "I'm not sure."],
+                "answer": "I'm not sure."
+            },
+
+            {   "question": "How long are you here for?",
+                "options": ["Since last week.", "Ten days ago.", "Till tomorrow."],
+                "answer": "Till tomorrow."
+            },
+
+            {   "question": "Have you guys had enough to eat?",
+                "options": ["That's all right.", "Is there any more rice?", "It's not the right time."],
+                "answer": "Is there any more rice?"
+            },
+
+            {   "question": "That's my coat over there.",
+                "options": ["Will you take it off?", "No, you haven't!", "Here you are."],
+                "answer": "Here you are."
+            },
+
+            {   "question": "Let's go by bus.",
+                "options": ["The train was expensive.", "We'll buy a ticket.", "It'll take too long."],
+                "answer": "It'll take too long."
+            },
+
+            {   "question": "Do you know my brother Charlie?",
+                "options": ["Sorry, he's not here.", "I don't think I do.", "I know."],
+                "answer": "I don't think I do."
+            },
+
+            {   "question": "Would you like some ice in your drink or not?",
+                "options": ["I hope so.", "Yes, I shall.", "I don't mind."],
+                "answer": "I don't mind."
+            }
+        ]
+    },
+
+    {
+        "topic": "General English",
+        "questions": [
+            {   
+                "question": "Can I park here?",
+                "options": ["Sorry, I did that.", "It's the same place.", "Only for half an hour."],
+                "answer": "Only for half an hour."
+            },
+            {   
+                "question": "What colour will you paint the children's bedroom?",
+                "options": ["I hope it was right.", "We can't decide.", "It wasn't very difficult."],
+                "answer": "We can't decide."
+            },
+            {   
+                "question": "I can't understand this email.",
+                "options": ["Would you like some help?", "Don't you know?", "I suppose you can."],
+                "answer": "Would you like some help?"
+            },
+            {   
+                "question": "I'd like two tickets for tomorrow night.",
+                "options": ["How much did you pay?", "Afternoon and evening.", "I'll just check for you."],
+                "answer": "I'll just check for you."
+            },
+            {   
+                "question": "Shall we go to the gym now?",
+                "options": ["I'm too tired.", "It's very good.", "Not at all."],
+                "answer": "I'm too tired."
+            },
+            {   
+                "question": "His eyes were ... bad that he couldn't read the number plate of the car in front.",
+                "options": ["such", "too", "so", "very"],
+                "answer": "so"
+            },
+            {   
+                "question": "The company needs to decide ... and for all what its position is on this point.",
+                "options": ["here", "once", "first", "finally"],
+                "answer": "once"
+            },
+            {   
+                "question": "Don't put your cup on the ... of the table – someone will knock it off.",
+                "options": ["outside", "edge", "boundary", "border"],
+                "answer": "edge"
+            },
+            {   
+                "question": "I'm sorry - I didn't ... to disturb you.",
+                "options": ["hope", "think", "mean", "suppose"],
+                "answer": "mean"
+            },
+            {   
+                "question": "The singer ended the concert ... her most popular song.",
+                "options": ["by", "with", "in", "as"],
+                "answer": "with"
+            },
+            {   
+                "question": "Would you mind ... these plates a wipe before putting them in the cupboard?",
+                "options": ["making", "doing", "getting", "giving"],
+                "answer": "giving"
+            },
+            {   
+                "question": "I was looking forward ... at the new restaurant, but it was closed.",
+                "options": ["to eat", "to have eaten", "to eating", "eating"],
+                "answer": "to eating"
+            },
+            {   
+                "question": "... tired Melissa is when she gets home from work, she always makes time to say goodnight to the children.",
+                "options": ["Whatever", "No matter how", "However much", "Although"],
+                "answer": "No matter how"
+            },
+            {   
+                "question": "It was only ten days ago ... she started her new job.",
+                "options": ["then", "since", "after", "that"],
+                "answer": "that"
+            },
+            {   
+                "question": "The shop didn't have the shoes I wanted, but they've ... a pair specially for me.",
+                "options": ["booked", "ordered", "commanded", "asked"],
+                "answer": "ordered"
+            }
+            
+        ]
+    },
+
+    {
+        "topic": "Business English",
+        "questions": [
+            {   
+                "question": "This month's import quota was really difficult to ___.",
+                "options": ["figure out", "figure to", "figure in"],
+                "answer": "figure out"
+            },
+            {   
+                "question": "The company ___ in new technology this year.",
+                "options": ["has invested", "has invited", "did invest"],
+                "answer": "has invested"
+            },
+            {   
+                "question": "I'd like to speak to John, but I can't ___ to him.",
+                "options": ["get on", "get through", "get in"],
+                "answer": "get through"
+            },
+            {   
+                "question": "Even though the President made the comments ___, they still appeared in the newspaper.",
+                "options": ["off the scale", "off the record", "off the cuff"],
+                "answer": "off the record"
+            },
+            {   
+                "question": "Yesterday, JBO __ by OLR.",
+                "options": ["was taken over", "taken over", "were took over"],
+                "answer": "was taken over"
+            },
+            {   
+                "question": "By this time tomorrow, the team leader ___ on the project budget for 24 hours.",
+                "options": ["will have working", "will have been worked", "will have been working"],
+                "answer": "will have been working"
+            },
+            {   
+                "question": "I ___ the job, if the perks hadn't been so great.",
+                "options": ["wouldn't have taken", "wouldn't had took", "wouldn't have took"],
+                "answer": "wouldn't have taken"
+            },
+            {   
+                "question": "The CFO remembers ___ the report but he's not sure where he put it.",
+                "options": ["saving", "to save", "saved"],
+                "answer": "saving"
+            },
+            {   
+                "question": "At the meeting, Jack brought something really interesting ___ table.",
+                "options": ["to the", "out of the", "from the"],
+                "answer": "to the"
+            },
+            {   
+                "question": "I would like to discuss this issue with Jane, but she ___ answer the phone.",
+                "options": ["don't", "won't", "not"],
+                "answer": "won't"
+            }
+        ]
+    }
+]

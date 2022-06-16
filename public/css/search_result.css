@@ -157,6 +157,14 @@
     text-align: center;
     font-style: italic;
   }
+  .container .result .picture {
+    width: 15%;
+    position: relative;
+    align-self: center;
+  }
+  .container .result .picture img {
+    width: 100%;
+  }
   .container .footer {
     width: 100%;
     max-width: 1440px;
@@ -586,6 +594,14 @@
     color: #ff5e95;
     text-align: center;
     font-style: italic;
+  }
+  .container .result .picture {
+    width: 25%;
+    position: relative;
+    align-self: center;
+  }
+  .container .result .picture img {
+    width: 100%;
   }
   .container .footer {
     display: none;
